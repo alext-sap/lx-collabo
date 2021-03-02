@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+   <meta>
+      <project name="UACP" coordinator="Philippe Coudert [philippe.coudert@sap.com];Suzy Glespen [suzy.glespen@sap.com];Kathrin Luecke [kathrin.luecke@sap.com];" project_phio="pkb1460543402704.project">
+         <dependencies>
+            <dependency project_phio_child="d021430840153030.project"/>
+         </dependencies>
+      </project>
+      <deliverable buildname="pkb1460543402704_01795" label="SAP Help Portal API Guide" language="en-US" loio="loio1d34bfcb03544d98839e1f428d1a49eb" product="" rootfile="loiod4bb113dd6e840f09a2c7bd9c47c1956_d4bb113dd6e840f09a2c7bd9c47c1956.zip" shortdesc="Learn how to access content on the UACP using APIs." transtype="html5.uacp" collection="/content/authoring/" phio="oaa1460541819530.ditamap" lastmodifiedby="i825596@global.corp.sap" lastmodified="2021-01-29 02:29:59" version="1" owner="D031901">
+         <outputmetas>
+            <outputmeta id="metaf0856c6d29be457f9ababdf6de114e78" value="product, version for UACP" desc="Project in UACP called UACP 2">
+               <param name="product" value="uacp_product_id"/>
+               <param name="version_name" value="Github"/>
+               <param name="version_sapid" value="uacp_version_saptaxid"/>
+               <param name="product_sapid" value="uacp_product_saptaxid"/>
+               <param name="product_name" value="User Assistance Content Platform"/>
+               <param name="version" value="GH"/>
+            </outputmeta>
+         </outputmetas>
+         <copyright file="copyright.html"/>
+         <disclaimer file="disclaimer.html"/>
+      </deliverable>
+   </meta>
+   <mapref label="SAP Help Portal API Guide" href="d4bb113dd6e840f09a2c7bd9c47c1956.ditamap" loio="loiod4bb113dd6e840f09a2c7bd9c47c1956" shortdesc="Learn how to access content on the UACP using APIs." collection="/content/authoring/" phio="sfy1487579070543.ditamap" lastmodifiedby="d031901@global.corp.sap" lastmodified="2020-11-20 10:26:59">
+      <sap-map-meta>
+		       <shortdesc>Learn how to access content on the UACP using APIs.</shortdesc>
+		       <othermeta content="development" name="content category"/>
+	        <resourceid appname="loio" id="d4bb113dd6e840f09a2c7bd9c47c1956" ux-source-priority="topic-and-map"/>
+      </sap-map-meta>
+      <topicref type="concept" label="Introduction"  format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Introduction.md" href="Introduction.md" shortdesc="The SAP Help Portal provides the Search API and Content API to access its contents from applications or Web sites." technicalname="" author="" loio="loio47770f1830664e21989a58d4f6a949ff" collection="/content/authoring/" phio="ljr1487579145063.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2017-03-01 15:12:28"/>
+      <topicref type="concept" label="Implementation Options" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Implementation_Options.md" href="Implementation_Options.md" shortdesc="For the implementation, the APIs are offered as REST APIs and JavaScript APIs. In addition, for the Search, you can simply use predefined widgets." technicalname="" author="" loio="loiocdcb0384433448ccba3229773d0593e3" collection="/content/authoring/" phio="dsr1487579192205.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2017-02-20 10:09:32"/>
+      <topichead label="Search API">
+         <topicref type="reference" label="Search REST API" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Search_REST_API.md" href="Search_REST_API.md" shortdesc="The Search API returns a list of topics matching the specified search parameters." technicalname="" author="" loio="loio54c81e729cc448e894d805a83179bd8b" collection="/content/authoring/" phio="mji1487923674972.xml" lastmodifiedby="i051221@global.corp.sap" lastmodified="2021-01-27 21:23:47"/>
+         <topicref type="reference" label="Search API: Search with Custom Metadata" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Search_API_Search_with_Custom_Metadata.md" href="Search_API_Search_with_Custom_Metadata.md" shortdesc="–WORK IN PROGRESS---You can search for topics which have been classified with custom metadata by adding the metadata as filter to the search query." technicalname="" author="" loio="loiofd8ce73dec084eb397f4096e0c9b2976" collection="/content/authoring/" phio="zkl1602514062157.xml" lastmodifiedby="i051221@global.corp.sap" lastmodified="2021-01-27 22:01:04"/>
+         <topicref type="task" label="Implementing the Search JavaScript API" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Implementing_the_Search_JavaScript_API.md" href="Implementing_the_Search_JavaScript_API.md" shortdesc="The Search API has been implemented as a JavaScript function, which allows you to easily integrate it into an HTML page." technicalname="" author="" loio="loioc8373736cd234b1cb1124406ad557bfc" collection="/content/authoring/" phio="bwc1487603313426.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2017-03-06 14:26:31"/>
+         <topicref type="concept" label="HTML Search Widget" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/HTML_Search_Widget.md" href="HTML_Search_Widget.md" shortdesc="To use the search in your application, you can simply integrate a predefined widget." technicalname="" author="" loio="loio9726682f7417415897bcc8bfbcc2272f" collection="/content/authoring/" phio="snz1488814437747.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2017-07-18 07:04:10">
+            <topicref type="task" label="Implementing the HTML Search Widget" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Implementing_the_HTML_Search_Widget.md" href="Implementing_the_HTML_Search_Widget.md" shortdesc="To implement the search widget, you need to add a few lines of code to your html page and to add some JavaScript files to your project." technicalname="" author="" loio="loio4547b3c023674ca791243e8d82f6dd0e" collection="/content/authoring/" phio="kfm1487605703122.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2017-03-24 10:05:08"/>
+         </topicref>
+      </topichead>
+      <topichead label="Content API">
+         <topicref type="reference" label="getContent REST API" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/getContent_REST_API.md" href="getContent_REST_API.md" shortdesc="The getContent API returns content and metadata of a specific topic." technicalname="" author="" loio="loio3ece223e3f6c4beda8342015d3db6dcb" collection="/content/authoring/" phio="imj1487595969567.xml" lastmodifiedby="i051221@global.corp.sap" lastmodified="2021-01-27 21:11:14"/>
+         <topicref type="task" label="Content JavaScript API" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Content_JavaScript_API.md" href="Content_JavaScript_API.md" shortdesc="The Content API has been implemented as a JavaScript function, which allows you to easily integrate it into an html page." technicalname="" author="" loio="loio298377d4d95547e79d389ff5cc719d69" collection="/content/authoring/" phio="wms1487605815702.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2017-03-01 14:37:28"/>
+      </topichead>
+      <topichead label="getTopics API">
+         <topicref type="reference" label="getTopics API" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/getTopics_API.md" href="getTopics_API.md" shortdesc="The getTopics API retrieves one or multiple topics from the SAP Help Portal based on metadata." technicalname="" author="" loio="loio4434d3dfe0ed44d7968bd5341a4b8e9b" collection="/content/authoring/" phio="sew1526561675930.xml" lastmodifiedby="i051221@global.corp.sap" lastmodified="2021-01-27 21:14:47"/>
+      </topichead>
+      <topichead label="predefined_profiles API">
+         <topicref type="reference" label="predefined_profiles REST API" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/predefined_profiles_REST_API.md" href="predefined_profiles_REST_API.md" shortdesc="–- Work in progress –- This API stores a feature flag configuration on the UACP database and creates and returns a profile ID for it. With this profile ID, an application can then call up content from the UACP which is filtered according to the enabled feature flags." technicalname="" author="" loio="loio6c6e2cf5a3004efd82821ee99f7a2592" collection="/content/authoring/" phio="lva1598272987971.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2021-01-07 11:11:19"/>
+         <topicref type="task" label="Checking Stored Configuration" format="https://github.tools.sap/UACP/apidoc/blob/master/doc/Checking_Stored_Configuration.md" href="Checking_Stored_Configuration.md" shortdesc="You can check which parameter configuration has been stored with a specific profile ID." technicalname="" author="" loio="loio832bbee7f0a942ceb29418747618bc31" collection="/content/authoring/" phio="wwl1598282867294.xml" lastmodifiedby="d031901@global.corp.sap" lastmodified="2020-09-02 09:28:20"/>
+      </topichead>
+   </mapref>
+<build>
+  <output>
+    <rootpage>index.html</rootpage>
+    <sap.dita.src.pattern>^(.*)\.([^.]*)$</sap.dita.src.pattern>
+    <sap.dita.loio.pattern>^loio(.*)$</sap.dita.loio.pattern>
+    <sap.dita.dest.pattern>\1.html</sap.dita.dest.pattern>
+    <sap.dita.O2O.pattern>$1.html</sap.dita.O2O.pattern>
+    <sap.dita.O2O.t2t.pattern/>
+  </output>
+</build></metadata>
