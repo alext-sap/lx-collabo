@@ -1,0 +1,39 @@
+mapref:
+  - title: "SAP Help Portal API Guide"
+    loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
+    shortdesc: "Learn how to access content on the UACP using APIs."
+
+nav:
+  - title: "Introduction"
+    filename: "Introduction.md"
+  - title: "Implementation Options"
+    filename: "Implementation_Options.md"
+  - title: "Search API"
+    subnav: 
+    - title: "Search REST API"
+      filename: "Search_REST_API.md"
+    - title: "Search API: Search with Custom Metadata"
+      filename: "Search_API_Search_with_Custom_Metadata.md"
+    - title: "Implementing the Search JavaScript API"
+      filename: "Implementing_the_Search_JavaScript_API.md"
+    - title: "HTML Search Widget"
+      filename: "HTML_Search_Widget.md"
+      subnav: 
+      - title: "Implementing the HTML Search Widget"
+        filename: "Implementing_the_HTML_Search_Widget.md"
+  - title: "Content API"
+    subnav: 
+    - title: "getContent REST API"
+      filename: "getContent_REST_API.md"
+    - title: "Content JavaScript API"
+      filename: "Content_JavaScript_API.md"
+  - title: "getTopics API"
+    subnav: 
+    - title: "getTopics API"
+      filename: "getTopics_API.md"
+  - title: "predefined_profiles API"
+    subnav: 
+    - title: "predefined_profiles REST API"
+      filename: "predefined_profiles_REST_API.md"
+    - title: "Checking Stored Configuration"
+      filename: "Checking_Stored_Configuration.md"
