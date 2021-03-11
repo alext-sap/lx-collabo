@@ -12,7 +12,7 @@ In this guide, abbreviations are distinguished from acronyms. An abbreviation is
 
 _<Provide acceptable abbreviations for your language in the table below. If the table is big, consider creating it on an appendix page while providing a link to that page here. If there is no need for the table, remove it as well as this text.>_
 
-## List of Acceptable Abbreviations
+### List of Acceptable Abbreviations
 
 Abbreviation | Full Form
 ------------ | -----------
@@ -28,7 +28,7 @@ doc. | doctor
 
 _<Provide standard acronyms for your language in the table below. If the table is big, consider creating it on an appendix page while providing a link to that page here. If there is no need for the table, remove it as well as this text.>_
 
-## List of Standard Acronyms
+### List of Standard Acronyms
 
 Acronym | Full Form
 ------- | -----------
