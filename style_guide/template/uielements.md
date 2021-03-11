@@ -2,4 +2,4 @@
 
 _Provided guidelins for common user interface elements regarding capitalization, punctuation, and other style-related points that are mportant for your language._
 
-![](style_guide\images\uielements.jpg)
+![English capitalization for various UI elements](/style_guide/images/uielements.jpg)
