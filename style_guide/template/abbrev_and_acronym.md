@@ -16,8 +16,8 @@ _<Provide acceptable abbreviations for your language in the table below. If the 
 
 Abbreviation | Full Form
 ------------ | -----------
-             |            
-             |            
+abbrev. | abbreviation
+doc. | doctor
 
 ## Acronyms
 
@@ -32,5 +32,5 @@ _<Provide standard acronyms for your language in the table below. If the table i
 
 Acronym | Full Form
 ------- | -----------
-        |            
-        |           
+WWW     | World Wide Web
+PC      | personal computer          
