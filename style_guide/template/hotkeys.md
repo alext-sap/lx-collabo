@@ -20,6 +20,8 @@ Save as &Template | \<example in your language\>
 Align _Bottom | \<example in your language\>
 Align _Center | \<example in your language\>
 
-    In rare cases, hotkeys may also be represented by a standalone character in the source text. If you encounter such standalone characters, the above instructions may not apply. Please refer to your project-specific instructions, contact your PM, or submit a query in Query Tracker.
-
-The codeblock needs to be cancelled.
+    In rare cases, hotkeys may also be represented by a
+    standalone character in the source text. If you encounter
+    such standalone characters, the above instructions may not
+    apply. Please refer to your project-specific instructions,
+    contact your PM, or submit a query in Query Tracker.
