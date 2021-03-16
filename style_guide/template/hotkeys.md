@@ -20,5 +20,4 @@ Save as &Template | _\<example in your language\>_
 Align _Bottom | _\<example in your language\>_
 Align _Center | _\<example in your language\>_
 
-    In rare cases, hotkeys may also be represented by a standalone character in the source text. If you encounter such standalone characters,
-    the above instructions may not apply. Please refer to your project-specific instructions, contact your PM, or submit a query in Query Tracker.
+    In rare cases, hotkeys may also be represented by a standalone character in the source text. If you encounter such standalone characters, the above instructions may not apply. Please refer to your project-specific instructions, contact your PM, or submit a query in Query Tracker.
