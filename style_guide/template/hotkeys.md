@@ -1,6 +1,6 @@
 # Hotkeys
 
-A hotkey is a key combination that users press at runtime to trigger an action. One of the keys is always a modifier key, such as the Alt or Ctrl key. Developers typically place an ampersand (&) in front of the hotkey letter. Sometimes they use an underscore (_).
+A hotkey is a key combination that users press at runtime to trigger an action. One of the keys is always a modifier key, such as the **Alt** or **Ctrl** key. Developers typically place an ampersand (&) in front of the hotkey letter. Sometimes they use an underscore (_).
 
     Hotkeys only occur in Non-ABAP development environments.
 
