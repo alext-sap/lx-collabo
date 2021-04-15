@@ -1,6 +1,6 @@
 mapref:
-  - title: "SAP Help Portal API Guide"
-    loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
+  - title: "SAP Test for LX collaboration"
+    loio: "loiod4bb113dd6e840f09a2c7bd9c47c1999"
     shortdesc: "Learn how to access content on the UACP using APIs."
 
 nav:
