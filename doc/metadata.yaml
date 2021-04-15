@@ -2,7 +2,7 @@ deliverable:
 - buildname: _001
   label: Github LX Project
   language: en-US
-  lastmodifiedby: jason.chong@sap.com
+  lastmodifiedby: alexander.tusa@sap.com
   loio: loio_github_pgitty
   owner: i840200
   product: SAP_lx_project
