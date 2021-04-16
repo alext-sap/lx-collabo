@@ -4,10 +4,10 @@ mapref:
     shortdesc: "Learn how to collaborate using GH and UACP."
 
 nav:
-  - title: "Introduction"
-    filename: "Introduction.md"
   - title: "Implementation Options"
     filename: "Implementation_Options.md"
+  - title: "Introduction"
+    filename: "Introduction.md"
   - title: "Search API"
     subnav: 
     - title: "Search REST API"
