@@ -3,7 +3,7 @@
 !!! Note
 
 In this guide, abbreviations are distinguished from acronyms. An abbreviation is a shortened form of a word or phrase such as "abbr." (abbreviation), "Ph.D." (Philosophy of Doctor), and "FYI" (For your information). An acronym is a word formed by combining the initial letters of a multipart name such as "ABAP" (Advanced Business Application Programming"), "WWW" (World Wide Web), and "UN" (United Nations).
-
+ 
 ## Abbreviations
 
 * Do not use an abbreviation in translation unless absolutely necessary.
