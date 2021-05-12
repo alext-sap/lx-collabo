@@ -1,6 +1,6 @@
 ## Introduction
 
-The SAP Help Portal provides the `Search` API and `Content` API to access its contents from applications or Web sites.
+This is a test document to experiment with collaboration with internal and external colleagues - April 21 .... 
 
 Here is a new parameter.
 Adding a list:
