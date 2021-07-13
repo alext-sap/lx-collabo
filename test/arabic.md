@@ -13,4 +13,6 @@
 
 For this special function, you need at least 4 KB of memory.
 
+<p dir="rtl">تتطلب هذه الوظيفة الخاصة 4 كيلوبايت من سعة الذاكرة.</p>
+
 تتطلب هذه الوظيفة الخاصة 4 كيلوبايت من سعة الذاكرة.
