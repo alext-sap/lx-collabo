@@ -1,7 +1,8 @@
 # Week days and their abbreviations
 
-|Saturday|السبت|Sat|سبت|S|س|
+|EN Long|AR Long|EN Medium|AR Medium|EN short|AR Short|
 |-|-:|-|-:|-|-:|
+|Saturday|السبت|Sat|سبت|S|س|
 |Sunday|الأحد|Sun|أحد|S|ح|
 |Monday|الاثنين|Mon|اثن|M|ن|
 |Tuesday|الثلاثاء|Tue|ثلث|T|ث|
