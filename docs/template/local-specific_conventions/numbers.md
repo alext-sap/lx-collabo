@@ -11,8 +11,8 @@ This section discusses topics that are related to numbers in translation.
   <li>123.45</li>
   <li>12,345</li>
   </p>
-  <p>If no guidelines are necessary, leave the following fallback text:</i>
-  Follow the standard guidelines in the references provided in [General References](/template/general_references.md).
+  <p>If no guidelines are necessary, leave the following fallback text:</i></p>
+  <p>Follow the standard guidelines in the references provided in [General References](/template/general_references.md).
   </p>
 </details>
 <details>
@@ -35,4 +35,24 @@ This section discusses topics that are related to numbers in translation.
   <p>Follow the standard guidelines in the references provided in [General References](/template/general_references.md).
   </p>
 </details>
-  
+<details>
+  <summary>Number Ranges</summary>
+  <p></p>
+  <p><i>Provide guidelines on how to express a range of numbers. The following are examples for English:
+    <li>Use an en dash (–) for number ranges.</li>
+  <ul>
+  <li>The page has 50,000–150,000 views per day.</li>
+  <li>Exception: From 2013 to 2015, the sales revenue increased considerably.</li>
+  </ul>
+  <p></p>
+  <p>If no specific guidelines are necessary, leave the following fallback statement:</i></p>
+  <p>Follow the standard guidelines in the references provided in [General References](/template/general_references.md).
+  </p>
+</details>
+<details>
+  <summary>Other</summary>
+  <p></p>
+  <p><i>Add any other topics if relevant. If none, delete this entire topic.</i></p>
+</details>
+
+## Related Information 
