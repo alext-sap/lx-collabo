@@ -26,7 +26,7 @@ This section describes how to translate and choose the correct format for date, 
   <p>Don't convert the time zone unless instructed otherwise.</p>
 </details>
 <details>
-  <summary>Calendar</summary><br>  <p></p>
+  <summary>Calendar</summary><br>
   <p><i>Provide any guidelines on calendar as applicable.</p>
   <p>For instance, is there any locale-specific calendar system to be used for a date that is expressed in the Gregorian calendar system?</p>
   <p>If this topic is not applicable, delete the content of this topic except for the following statement:</i></p>
