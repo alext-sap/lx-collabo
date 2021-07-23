@@ -19,9 +19,9 @@ outputmeta:
   version_name: Test Version
   version_sapid: null
 mapref:
-  - title: "SAP Help Portal API Guide"
+  - title: "SAP LX Collaboration Guide"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
-    shortdesc: "Learn how to access content on the UACP using APIs."
+    shortdesc: "Collaboration guide."
 nav:
   
   - title: "Introduction"
