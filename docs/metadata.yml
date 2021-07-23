@@ -26,8 +26,8 @@ nav:
   
   - title: "About"
     filename: "/template/about.md"
-  - title: "About"
-    filename: "about.md"
+  - title: "General Reference "
+    filename: "/template/general_references.md"
   - title: "Search API"
     subnav: 
     - title: "Search REST API"
