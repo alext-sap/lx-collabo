@@ -24,10 +24,10 @@ mapref:
     shortdesc: "Collaboration guide."
 nav:
   
-  - title: "Introduction"
-    filename: "Introduction.md"
-  - title: "Implementation Options"
-    filename: "Implementation_Options.md"
+  - title: "About"
+    filename: "/template/about.md"
+  - title: "About"
+    filename: "about.md"
   - title: "Search API"
     subnav: 
     - title: "Search REST API"
