@@ -24,9 +24,9 @@ mapref:
     shortdesc: "Collaboration guide."
 nav:  
   - title: "About"
-    filename: "/template/about.md"
+    filename: "template/about.md"
   - title: "General Reference "
-    filename: "/template/general_references.md"
+    filename: "template/general_references.md"
   - title: "SAP Terminology"
-    filename: "/template/sap_terminology/sap_terminology.md"
+    filename: "template/sap_terminology/sap_terminology.md"
   
