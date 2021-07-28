@@ -29,6 +29,11 @@ nav:
     filename: "template/general_references.md"
   - title: "SAP Terminology"
     filename: "template/sap_terminology/sap_terminology.md"
+    subnav:
+    - title: "Translating Terms in SAPterm"
+      filename: "template/sap_terminology/translating_terms_in_sapterm.md"
+    - title: "SAP Product Names"
+      filename: "template/sap_terminology/sap_product_names.md"
   - title: "Voice and Tone"
     filename: "template/voice_and_tone/voice_and_tone.md"
     subnav:
