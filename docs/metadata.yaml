@@ -35,6 +35,3 @@ nav:
       - title: "People-Centric Language"
       - filename: "template/voice_and_tone/people-centric_languaged.md"
       
-      subnav: 
-      - title: "Voice and Tone"
-        filename: "sub-sub-topic1.md"
