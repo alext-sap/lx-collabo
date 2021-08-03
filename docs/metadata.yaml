@@ -39,6 +39,7 @@ nav:
     subnav:
     - title: "People-Centric Language"
       filename: "template/voice_and_tone/people-centric_language.md"
+  - title: "Locale-Specific Conventions"
+    filename: "template/local-specific_conventions/local-specific_conventions.md"      
   - title: "User Interface Element Texts"
     filename: "template/user_interface_element_texts/user_interface_elements_texts.md"
-      
