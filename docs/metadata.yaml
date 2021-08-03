@@ -10,7 +10,7 @@ deliverable:
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: TEST_VERSION
-  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/edit/main/doc/"
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
 outputmeta:
 - product: LX_TEST
   product_name: LX Test Project
