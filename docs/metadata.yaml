@@ -10,7 +10,7 @@ deliverable:
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: TEST_VERSION
-  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/edit/main/doc/"
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
 outputmeta:
 - product: LX_TEST
   product_name: LX Test Project
@@ -39,6 +39,7 @@ nav:
     subnav:
     - title: "People-Centric Language"
       filename: "template/voice_and_tone/people-centric_language.md"
+  - title: "Locale-Specific Conventions"
+    filename: "template/local-specific_conventions/local-specific_conventions.md"      
   - title: "User Interface Element Texts"
     filename: "template/user_interface_element_texts/user_interface_elements_texts.md"
-      
