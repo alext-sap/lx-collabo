@@ -8,9 +8,10 @@ This section discusses guidelines on translating common UI element texts.
 
 Follow the general guidelines regarding capitalization, punctuation, and other style-related points when translating common UI element texts.
 
-<details>
-  <summary>Window, Pane, Screen</summary><br>
-</details>
+<div class="section collapsible">
+<section class="section collapsible" type="Window, Pane, Screen"
+</section>
+</div>
   
 <details>
   <summary>Menu, Context Menu</summary><br>
