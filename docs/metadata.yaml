@@ -96,13 +96,12 @@ nav:
     filename: "template/06_additional_guidance_for_translators.md"
     subnav:
     - title: "Common Translation Mistakes"
-      filepath: "template/06_additional_guidance_for_translators/common_translation_mistakes.md"
+      filename: "template/06_additional_guidance_for_translators/common_translation_mistakes.md"
     - title: "Standard Phrases"
-      filepath: "template/06_additional_guidance_for_translators/standard_phrases.md"
+      filename: "template/06_additional_guidance_for_translators/standard_phrases.md"
     - title: "Words and Phrases To Be Adapted"
-      filepath: "template/06_additional_guidance_for_translators/words_and_phrases_to_be_adapted.md"
+      filename: "template/06_additional_guidance_for_translators/words_and_phrases_to_be_adapted.md"
     - title: "Words and Phrases To Be Avoided"
-      filepath: "template/06_additional_guidance_for_translators/words_and_phrases_to_be_avoided.md"
+      filename: "template/06_additional_guidance_for_translators/words_and_phrases_to_be_avoided.md"
     - title: "Acceptable Abbreviations and Acryonyms"
-      filepath: "template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md"
-      
+      filename: "template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md"
