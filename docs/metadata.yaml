@@ -13,7 +13,7 @@ deliverable:
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
 outputmeta:
 - product: LX_TEST
-  product_name: LX Test Project
+  product_name: LX Test Project II
   product_sapid: null
   version: TEST_VERSION
   version_name: Test Version
