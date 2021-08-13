@@ -73,7 +73,7 @@ nav:
       title: "Tables"
       filename: "template/03_grammar_and_mechanics/tables.md"
   - title: "Locale-Specific Conventions"
-    filename: "template/04_local-specific_conventions/local-specific_conventions.md"      
+    filename: "template/04_local-specific_conventions.md"
     subnav:
       title: "Currencies"
       filename: "template/04_locale-specific_conventions/currencies.md"
