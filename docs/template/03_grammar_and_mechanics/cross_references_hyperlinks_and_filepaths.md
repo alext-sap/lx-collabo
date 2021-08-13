@@ -1,7 +1,8 @@
 # Cross-References, Hyperlinks, and Filepaths
 
 A **cross-reference** is the formulation used in a **source document** to direct the user to related information in a **target document**. It does not technically link texts together.
-Example: For more information, see chapter 3.2.
+
+Example: `For more information, see chapter 3.2.`
 
 A **hyperlink** is the technical means that connects the two documents. It is an optional element in a cross-reference because hyperlinks are not always technically possible or may not always be desirable.
 
