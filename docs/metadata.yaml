@@ -85,5 +85,12 @@ nav:
       filename: "template/04_locale-specific_conventions/unit_of_measurement.md"
   - title: "User Interface Element Texts"
     filename: "template/05_user_interface_element_texts.md"
+    subnav:
+    - title: "Hotkeys (non-ABAP only)"
+      filename: "template/05_user_interface_element_texts/hotkeys.md"
+    - title: "Object Types (ABAP only)"
+      filename: "template/05_user_interface_element_texts/object_types.md"
+    - title: "UI Text Types (non-ABAP only)"
+      filename: "template/05_user_interface_element_texts/ui_text_types.md"
   - title: "Additional Guidance for Translators"
     filename: "template/06_additional_guidance_for_translators.md"
