@@ -22,7 +22,7 @@ mapref:
     title: "SAP LX Collaboration Guide"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
     shortdesc: "Collaboration guide."
-nav:  
+nav:
     title: "About"
     filename: "template/0_about.md"
     title: "General Reference "
@@ -37,8 +37,8 @@ nav:
     title: "Voice and Tone"
     filename: "template/02_voice_and_tone.md"
     subnav:
-      title: "Natural Language"
-      filename: "template/02_voice_and_tone/natural_language.md"
+      title: "Bias-Free Language and Communication"
+      filename: "template/02_voice_and_tone/bias-free_language_and_communication.md"
     title: "Grammar and Mechaics"
     filename: "template/03_grammar_and_mechanics.md"
     title: "Locale-Specific Conventions"
