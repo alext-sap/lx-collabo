@@ -25,7 +25,7 @@ mapref:
 nav:
     title: "About"
     filename: "template/0_about.md"
-    title: "General Reference "
+    title: "General Reference"
     filename: "template/00_general_references.md"
     title: "SAP Terminology"
     filename: "template/01_sap_terminology.md"
