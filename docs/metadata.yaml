@@ -82,7 +82,7 @@ nav:
       title: "Unit of Measurement"
       filename: "template/04_locale-specific_conventions/unit_of_measurement.md"
   - title: "User Interface Element Texts"
-    filename: "template/05_user_interface_elements_text.md"
+    filename: "template/05_user_interface_element_text.md"
     subnav:
       title: "Hotkeys (non-ABAP only)"
       filename: "template/05_user_interface_element_texts/hotkeys.md"
