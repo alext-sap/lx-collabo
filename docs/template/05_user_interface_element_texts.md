@@ -30,18 +30,23 @@ Follow the general guidelines regarding capitalization, punctuation, and other s
   
 <details>
   <summary>Field</summary><br>
+</details>
   
 <details>
   <summary>Checkbox, Radio Button</summary><br>
+</details>
   
 <details>
   <sumnmary>Tooltips (Mouseovers)</summary><br>
+</details>
   
 <details>
   <summary>Other</summary><br>
+</details>
   
 <details>
-  <summary>Reference: English Capitalization Rules on UI Element Texts</summary><br>
+  <summary>Reference: English Capitalization Rules on UI Element Texts<img src="images/uielements.jpg" alt="English UI Capitalization Rules"></summary><br>
+</details>
   
   
 ### Related Information
