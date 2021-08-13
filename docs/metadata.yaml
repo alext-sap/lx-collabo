@@ -36,9 +36,6 @@ nav:
       filename: "template/01_sap_terminology/sap_product_names.md"
     title: "Voice and Tone"
     filename: "template/02_voice_and_tone.md"
-    subnav:
-      title: "Bias-Free Language and Communication"
-      filename: "template/02_voice_and_tone/bias-free_language_and_communication.md"
     title: "Grammar and Mechaics"
     filename: "template/03_grammar_and_mechanics.md"
     title: "Locale-Specific Conventions"
