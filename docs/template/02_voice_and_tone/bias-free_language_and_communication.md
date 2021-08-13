@@ -7,6 +7,7 @@ SAP is working on an ongoing project called Inclusive Language Project with the 
 *Please provide guidelines on how to achieve this. If none, please delete this paragraph.*
 
 ## Gender and Gender-Neutral Language
+
 *Provide guidelines for handling the user gender or cases when gender neutrality is not possible (ie. use masculine).*
 
 * *Avoid gender when referring to the user? If so, any tips?*
