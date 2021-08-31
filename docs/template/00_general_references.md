@@ -6,18 +6,18 @@ Refer to the references listed here for guidelines on general linguistic rules a
 
 The standard references for grammar, punctuation, spelling, and style are:
 
-- *Add here linguistic references to be used for your language. Specify the order of preference, if necessary.*
+- *Provide here linguistic references to be used for your language. Specify the order of preference, if necessary.*
 
-If there is a conflict of instructions between this style guide and the above references, **those in this style guide take precednece**.
+If there is a conflict of instructions between this style guide and the above references, **those in this style guide take precedence**.
 
 ## Terminology References
 
 The standard references for general and industry terminology are:
 
-- *Add here terminology references to be used for your language. If none, please add the following general statement:* **There is no standard terminology references.**
+- *Provide here terminology references to be used for your language. If none, replace the above text with the following statement:* "There is no specific standard terminology references."
 
 
-  > SAPterm and the Brand Voice translation guidelines are the authoritative references for terminology specific to SAP and its products. 
+> SAPterm and the Brand Voice translation guidelines are the authoritative references for terminology specific to SAP and its products. 
  
 ### Related Information
 
