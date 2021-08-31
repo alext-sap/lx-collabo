@@ -1,10 +1,12 @@
 # General References
 
+Refer to the references listed here for guidelines on general linguistic rules and general and industry terminology.
+
 ## Linguistic References
 
-The official standard references for spelling, wording and grammar are:
+The standard references for grammar, punctuation, spelling, and style are:
 
-*Add here a list of language references for spelling, grammar, punctuation. If any of those references take precedence, specify.*
+- *Add here linguistic references. Specify their priority, if any.*
 
 If the standards in the listed references and the SAP Translation Style Guide contradict each other, the standards in the SAP Translation Style Guide take priority.
 
