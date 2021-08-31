@@ -6,14 +6,15 @@ Refer to the references listed here for guidelines on general linguistic rules a
 
 The standard references for grammar, punctuation, spelling, and style are:
 
-- *Add here linguistic references. Specify their priority, if any.*
+- *Add here linguistic references to be used for your language. Specify the order of preference, if necessary.*
 
-If the standards in the listed references and the SAP Translation Style Guide contradict each other, the standards in the SAP Translation Style Guide take priority.
+If there is a conflict of instructions between this style guide and the above references, **those in this style guide take precednece**.
 
 ## Terminology References
-SAPterm and Brand Voice guidelines are top priority. In addition to SAPterm and the Brand Voice guidelines, please use the following general terminology references:
 
-*Add any language references you need to apply for styling, grammar, and terminology*
+The standard references for general and industry terminology are:
+
+- *Add here terminology references to be used for your language. If none, please add the following general statement:* **There is no standard terminology references.""
 
 
 For more information on SAPterm, please see section SAP Terminology <link "SAP Terminology" to section in Style Guide>.
