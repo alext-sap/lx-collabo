@@ -14,7 +14,12 @@ If there is a conflict of instructions between this style guide and the above re
 
 The standard references for general and industry terminology are:
 
-- *Add here terminology references to be used for your language. If none, please add the following general statement:* **There is no standard terminology references.""
+- *Add here terminology references to be used for your language. If none, please add the following general statement:* **There is no standard terminology references.**
 
 
-For more information on SAPterm, please see section SAP Terminology <link "SAP Terminology" to section in Style Guide>.
+  > SAPterm and the Brand Voice translation guidelines are the authoritative references for terminology specific to SAP and its products. 
+ 
+### Related Information
+
+- [SAPterm](template/sap_terminology/translating_terms_in_sapterm.md)
+- [Brand Voice Translation Guidelines](https://translation.sap.com/brand-voice-information.html)
