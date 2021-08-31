@@ -21,5 +21,5 @@ The standard references for general and industry terminology are:
  
 ### Related Information
 
-- [SAPterm](template/sap_terminology/translating_terms_in_sapterm.md)
+- [SAPterm](01_sap_terminology/translating_terms_in_sapterm.md)
 - [Brand Voice Translation Guidelines](https://translation.sap.com/brand-voice-information.html)
