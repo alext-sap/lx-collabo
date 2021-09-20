@@ -18,7 +18,7 @@ If PCA is applied in English texts, you might see:
 
 The following are some general PCA guidelines from the viewpoint of translation:
 
-* It is OK to play with stylistic rules within the confines of your languages as long as you don't bend grammar rules (wrong tenses, prepositions, or word order).
+* It is OK to play with stylistic rules within the confines of your language as long as you don't bend grammar rules (wrong tenses, prepositions, or word order).
 * Don’t deviate from the source text unnecessarily in terms of direct vs. indirect speech or active vs. passive voice, unless your language conventions call for it.
 
 ### Related Information
