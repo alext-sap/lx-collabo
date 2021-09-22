@@ -4,7 +4,7 @@ This section discusses capitalization rules for different types of text.
 
 *Provide any guidelines on capitalization for your language. These could include:*
 
-* *UI text elements*
+* *UI element texts*
 * *Headings and titles*
 * *Bulleted lists (complete and incomplete sentences)*
 * *Tables (captions, header cells, and table cells)*
