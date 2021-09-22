@@ -1,44 +1,37 @@
 # Abbreviations
 
-This section provides guidance on the use of abbreviations (including acronyms) in translation.
+This section provides guidance on the use of abbreviations (including acronyms) in translation. The following are general guidelines:
 
-## Abbreviations Used in Source Texts
-
-The following are general guidelines to deal with abbreviations used in source texts:
-
-* Don't adopt the abbreviation blindly in translation. Use the one commonly used in your language.
+* Don't adopt the abbreviation used in source blindly in translation. Use the one commonly used in your language.
 * Ask if you don't know what the abbreviation in source stands for.
 
-*You may create a list of abbreviations for your language in [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md)*
+*If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
+
+See [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
 
 ## When Abbreviations Are Needed in Translation
 
-isn't bbreviations (including acronyms) negatively affect readability and comprehensibility. They increase the cognitive load because end-users have to remember what they stand for. Therefore, it is recommended to use abbreviations only in exceptional cases where, for example, translated texts exceed the length limitation.
+You may need to shorten the translation when there is not enough sapce for the full text. This can happen with UI texts that have text length restriction set. In such a case, follow the guidelines below:
 
-## Instructions for Software Translation 
+* Check first if the length restriction can be adjusted or removed. This can be done by submitting a query.
+* If it cannot be adjusted or removed, consider rephrasing the translation or omitting words in a way that doesn't alter the meaning of the source text. For instance, you may omit the words in bold in the example below:
 
-When you encounter space limitations, check first if this length restriction can be adjusted or removed. This can be done by submitting a query. 
+   > **It looks like** the settlement due items didn’t load **correctly**. Please refresh or try **again** later. 
 
-If the length restriction cannot be adjusted, you might consider rephrasing the text or omitting any redundant words. See for instance the bolded words in the example below.
+* If rephrasing or omitting words doesn't help, choose an abbreviation that is the easiest for end users to recognize and understand. The following are general guidelines:  
 
-**Example**: It looks like the settlement due items didn’t load **correctly**. Please refresh or try **again** later. 
+   * Use a known abbreviated form or an acronym such as those in a dictionary or SAPterm.
+   * Try any of the following options:<br>
+      * Omit vowels
+      * Join words using camelcasing
+      * Cut the ending of a word (with or without a full stop)
+      * *Add other options, if any. If not, remove this line.*
+   * Ensure that it is not mistaken for a typo.
+   * Use the same abbreviation consistently and not for different words.
 
-If the space is limited and no shorter full-text translation is possible, choose an abbreviation that is the easiest for end-users to recognize and understand. To that extent, follow these guidelines:  
+*If you want to provide a list of abbreviated forms for your language, you may do so in [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
 
-* If there is a known abbreviated form or an acronym (especially if it is also contained in a dictionary or even SAPterm) use that. 
-* Use one of the following abbreviation methods but make sure that the abbreviations cannot be misunderstood as typos.  
-* Once you decided on an abbreviated form, use it consistently. Avoid using the same abbreviation for different words.  
-
-*Delete (or adjust) these guidelines and examples if this doesn't apply in your language because your language doesn't use abbreviations.* 
-
-
-| Abbreviation method | Example |
-| --- | --- |
-| Omit vowels	| *add an example in your language or delete row if not applicable.* |
-| Join words using camelcasing | *add an example in your language or delete row if not applicable.* |
-| Cut the ending of a word (with or without a full stop) | *add an example in your language or delete row if not applicable.* |
-| *add more methods or delete row* | *add an example in your language or delete row if not applicable.* |
-
+See [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
 
 ## Miscellaneous
 
