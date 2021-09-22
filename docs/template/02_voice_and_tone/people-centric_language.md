@@ -12,7 +12,7 @@ If PCA is applied in English texts, you might see:
 * Actionable transitions like "learn more", "see what’s new", "explore more options" – as these get the user doing something
 * Relaxation of some stylistic rules (the ones taught in school) such as "never start a sentence with 'But' or 'And'"
 
-> **Note:** Remember that PCA is not a set of rules but an approach that strives to deliver the content to the target audience in a most appropriate and meaninful manner. Texts that do not possess the above characteristics cannot be said to be non-PCA as it may be that they are not appropriate for their target audience.
+> **Note:** Remember that PCA is not a set of rules but an approach that strives to deliver the content to the target audience in a most appropriate and meaninful manner. Texts that do not possess the above characteristics cannot be said to be non-PCA as it may be that they are not appropriate for their target group.
 
 ## How does this impact translation?
 
@@ -22,8 +22,8 @@ The following are some general PCA guidelines from the viewpoint of translation:
 * Don’t deviate from the source text unnecessarily in terms of direct vs. indirect speech or active vs. passive voice, unless your language conventions call for it.
 
 ### Related Information
-* SAP Style Guide 
-* Voice and Tone 
-* Bias-free Communication
-* Natural Language 
-* Words or Phrases to be Adapted 
+* [SAP Style Guide](https://translation.sap.com/content/dam/sls/en_us/ReferenceMaterials/StyleGuides/SAP_StyleGuideForTechnicalCommunication.pdf) 
+* [Voice and Tone](template/02_voice_and_tone.md) 
+* [Bias-free Communication](template/02_voice_and_tone/bias-free_language_and_communication.md)
+* [Natural Language](template/02_voice_and_tone/natural_language.md) 
+* [Words or Phrases to be Adapted](template/06_additional_guidance_for_translators/words_and_phrases_to_be_adapted.md) 
