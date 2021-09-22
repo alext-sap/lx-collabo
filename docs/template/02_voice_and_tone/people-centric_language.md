@@ -23,7 +23,7 @@ The following are some general PCA guidelines from the viewpoint of translation:
 
 ### Related Information
 * [SAP Style Guide](https://translation.sap.com/content/dam/sls/en_us/ReferenceMaterials/StyleGuides/SAP_StyleGuideForTechnicalCommunication.pdf) 
-* [Voice and Tone](template/02_voice_and_tone.md) 
-* [Bias-free Communication](template/02_voice_and_tone/bias-free_language_and_communication.md)
-* [Natural Language](template/02_voice_and_tone/natural_language.md) 
-* [Words or Phrases to be Adapted](template/06_additional_guidance_for_translators/words_and_phrases_to_be_adapted.md) 
+* [Voice and Tone](docs/template/02_voice_and_tone.md) 
+* [Bias-free Communication](docs/template/02_voice_and_tone/bias-free_language_and_communication.md)
+* [Natural Language](docs/template/02_voice_and_tone/natural_language.md) 
+* [Words or Phrases to be Adapted](06_additional_guidance_for_translators/words_and_phrases_to_be_adapted.md) 
