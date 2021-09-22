@@ -1,8 +1,19 @@
 # Abbreviations
 
-This section provides guidance on the use of abbreviations in translation.
+This section provides guidance on the use of abbreviations (including acronyms) in translation.
 
-Abbreviations (including acronyms) negatively affect readability and comprehensibility. They increase the cognitive load because end-users have to remember what they stand for. Therefore, it is recommended to use abbreviations only in exceptional cases and when texts must be shortened due to insufficient space (for example on software screens).
+## Abbreviations Used in Source Texts
+
+The following are general guidelines to deal with abbreviations used in source texts:
+
+* Don't adopt the abbreviation blindly in translation. Use the one commonly used in your language.
+* Ask if you don't know what the abbreviation in source stands for.
+
+*You may create a list of abbreviations for your language in [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md)*
+
+## When Abbreviations Are Needed in Translation
+
+isn't bbreviations (including acronyms) negatively affect readability and comprehensibility. They increase the cognitive load because end-users have to remember what they stand for. Therefore, it is recommended to use abbreviations only in exceptional cases where, for example, translated texts exceed the length limitation.
 
 ## Instructions for Software Translation 
 
