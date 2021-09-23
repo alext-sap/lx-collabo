@@ -8,7 +8,7 @@ SAP is working on an ongoing project called Inclusive Language Project with the 
 
 ## Gender and Gender-Neutral Language
 
-Translating in a gender-neutral style has different challenges for different languages. There are languages that have grammaticalized gender in nouns, pronouns, noun/adjective agreement, (pro)noun/verb agreement, and so on. Be careful not to stretch the language to the limits of grammar and comprehensibility. 
+Translating in a gender-neutral style has different challenges for different languages. There are languages that have grammaticalized gender in nouns, pronouns, verbs, noun/adjective agreement, (pro)noun/verb agreement, and so on. Be careful not to stretch the language to the limits of grammar and comprehensibility. 
 
 *Provide guidelines for handling the user gender or cases when gender neutrality is not possible (ie. use masculine).*
 
