@@ -1,4 +1,6 @@
-# Cross-References, Hyperlinks, and Filepaths
+# Cross-References and Hyperlinks (Filepaths}
+
+Cross-references and hyperlinks are used to refer to additional information in relation to the current topic.
 
 A **cross-reference** is the formulation used in a **source document** to direct the user to related information in a **target document**. It does not technically link texts together.
 
