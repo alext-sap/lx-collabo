@@ -17,7 +17,7 @@ You may need to shorten the translation when there is not enough sapce for the f
 * If it cannot be adjusted or removed, consider rephrasing the translation or omitting words in a way that doesn't alter the meaning of the source text. For instance, you may omit the words in bold in the example below:
 
    ```
-   **It looks like** the settlement due items didn’t load **correctly**. Please refresh or try **again** later. 
+   <b>It looks like</b> the settlement due items didn’t load <b>correctly</b>. Please refresh or try <b>again</b> later. 
    ```
 
 * If rephrasing or omitting words doesn't help, choose an abbreviation that is the easiest for end users to recognize and understand. The following are general guidelines:  
