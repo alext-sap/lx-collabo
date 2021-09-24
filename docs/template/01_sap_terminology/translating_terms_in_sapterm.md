@@ -1,6 +1,6 @@
 # Translating Terms in SAPterm
 
-Follow the terminology standards for target Languages ([Term entries (target languages))](https://translation.sap.com/content/dam/sls/en_us/Terminology/SAPtermGuidelines/Standard%20-%20Term%20Entries%20-%20Target%20Language.pdf) to correctly enter translated terms and term data into SAPterm.
+Follow the terminology standards for target languages ([Term entries (target languages))](https://translation.sap.com/content/dam/sls/en_us/Terminology/SAPtermGuidelines/Standard%20-%20Term%20Entries%20-%20Target%20Language.pdf) to correctly enter translated terms and term data into SAPterm.
 
 *Add any additional language-specific instructions that are not covered in the document linked above. Examples can include:*
 * *are there any capitalization rules?*
