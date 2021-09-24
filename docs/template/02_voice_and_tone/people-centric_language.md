@@ -12,7 +12,7 @@ If PCA is applied in English texts, you might see:
 * Actionable transitions like "learn more", "see what’s new", "explore more options" – as these get the user doing something
 * Relaxation of some stylistic rules (the ones taught in school) such as "never start a sentence with 'But' or 'And'"
 
-> **Note:** Remember that PCA is not a set of rules but an approach that strives to deliver the content to the target audience in a most appropriate and meaninful manner. Texts that do not possess the above characteristics cannot be said to be non-PCA as it may be that they are not appropriate for their target group.
+> Remember that PCA is not a set of rules but an approach that strives to deliver the content to the target audience in a most appropriate and meaninful manner. Texts that do not possess the above characteristics cannot be said to be non-PCA as it may be that they are not appropriate for their target group.
 
 ## How does this impact translation?
 
