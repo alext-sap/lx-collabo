@@ -59,7 +59,7 @@ nav:
     - title: "English-only Items"
       filename: "template/03_grammar_and_mechanics/english-only_items.md"
     - title: "Files, Folders, and Paths"
-      filename: "template/03/grammar_and_mechanics/files_folders_and_paths.md"
+      filename: "template/03_grammar_and_mechanics/files_folders_and_paths.md"
     - title: "Geographic Names"
       filename: "template/03_grammar_and_mechanics/geographic_names.md"
     - title: "Handing of Examples and Other Sample Data"
