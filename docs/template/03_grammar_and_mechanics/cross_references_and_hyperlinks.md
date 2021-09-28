@@ -5,7 +5,7 @@ Cross-references and hyperlinks are used to point the end user to additional or 
 * Don't append any explanatory text in parentheses whether the target of a cross-reference or hyperlink is translated or not, unless instructed otherwise.
 * Submit a query if a cross-reference or hyperlink is made available for translation and if its translation status is not clear.
 
-*Provide any other guidelines on how to translate cross-references and hyperlinks. (See, for example, query 845636.)*
+*Provide any other guidelines on how to translate cross-references and hyperlinks. (Compare use of xref with and without keyref in loioda3a66de2ffe4f88b5172870f7932bbc and loio76f55fd949cc49758cef8dd48928515c; query 845636.)*
 
 *For example:*
 
