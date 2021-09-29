@@ -4,4 +4,6 @@
 
 * *Include the instruction not to add "English-only" in parentheses to such references if your policy is to leave them in English because the situation may change over time.*
 
+* *Do not forget to include the instruction to submit a query if you are not sure if such references are translated in your language or not.*
+
 ### Related Information
