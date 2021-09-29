@@ -1,4 +1,7 @@
 # About This Guide
+
+* *Stress the importance of following the guidelines consistently in consideration of the impact on machine translation training.*
+
 # Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 ## What you will learn:
