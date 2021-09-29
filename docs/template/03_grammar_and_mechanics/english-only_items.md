@@ -1,15 +1,7 @@
 # English-only Items
 
-In this section you will find information about how to handle references to UI terms or documentation titles with no translation in the target language.
+* *Provide guidelines on how to handle references to English-only items such as UI terms of untranslated SAP or third-party products and the title of a document or web page that is not translated in your language.*
 
-## Product UI terms
-
-Reference may be made to UI terms of a product available only in English. Such terms must be left in English in translation without a best-guess translation in brackets.
-
-## Documentation Titles
-
-Reference may be made to SAP or non-SAP publication titles that are available only in English. Such titles must be left in English in translation without best-guess translation in brackets.
-
-Do not add "English only" in brackets unless stated in the source text.
+* *Include the instruction not to add "English-only" in parentheses to such references if your policy is to leave them in English because the situation may change over time.*
 
 ### Related Information
