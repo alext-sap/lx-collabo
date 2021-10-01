@@ -13,4 +13,4 @@ Translations should sound natural to the reader, as if the text were originally 
 
 ### Related Information
 
-* [Additional Guidance for Translators](lx-collabo/docs/template/06_additional_guidance_for_translators.md)
+* [Additional Guidance for Translators](../06_additional_guidance_for_translators.md)
