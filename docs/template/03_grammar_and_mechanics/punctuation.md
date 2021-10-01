@@ -53,6 +53,7 @@ TBA
 
 *If any of the punctuation marks above does not exist in your language or there are no specific instructions, delete it from the list.
 
-### Related Information 
-* General References
-* Characters, Symbols, and Spaces
+### Related Information
+
+* [General References](../00_general_references.md)
+* [Characters, Symbols, and Spaces](characters_symbols_and_spaces.md)
