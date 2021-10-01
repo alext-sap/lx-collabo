@@ -2,7 +2,7 @@
 
 Placeholders can be translated in most cases (submit a query or contact LX, if uncertain). Variables, which are filled at run time or in the final output production, are never translated.
 
-<details><summary><b>Placeholders in Code Examples, URLs, or Paths</b></summary></br>
+<details><summary><b>Placeholders in Code Examples, URLs, or Paths</b></summary>
 
 Translate placeholders if they are exposed for translation. 
   
@@ -13,7 +13,7 @@ Translate placeholders if they are exposed for translation.
 *Add any language-specific instruction, or delete this sentence if not needed.*
 </details>
 
-<details><summary><b>Placeholders in Date Formats</b></summary></br>
+<details><summary><b>Placeholders in Date Formats</b></summary>
 
 Such placeholders appear in fields on the user interface and in text. Submit a query or contact LX to check whether they can be translated or the sequence of characters can be adjusted to the convention of the locale (see [Date, Time, Timezone, Calendar](/template/04_locale-specific_conventions/date_time_timezone_calendar.md)). 
   
@@ -24,7 +24,7 @@ Such placeholders appear in fields on the user interface and in text. Submit a q
 *Add any language-specific instruction, or delete this sentence if not needed.*
 </details>
   
-<details><summary><b>Variables</b></summary></br>
+<details><summary><b>Variables</b></summary>
 
 Variables are not translatable, they are filled at run time, or in the final output production. 
 
