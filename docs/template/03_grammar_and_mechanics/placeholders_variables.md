@@ -3,6 +3,7 @@
 Placeholders can be translated in most cases (submit a query or contact LX, if uncertain). Variables, which are filled at run time or in the final output production, are never translated.
 
 <details><summary><b>Placeholders in Code Examples, URLs, or Paths</b></summary></br>
+
 Translate placeholders if they are exposed for translation. </br>
   
 | Source | Translation |
