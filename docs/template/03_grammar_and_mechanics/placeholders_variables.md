@@ -2,8 +2,14 @@
 
 Placeholders can be translated in most cases (submit a query or contact LX, if uncertain). Variables, which are filled at run time or in the final output production, are never translated.
 
-<details><summary>Collapsible Section Example</summary>
-Text about Details that not everybody in your audience is interested in.
+<details><summary><b>Placeholders in Code Examples, URLs, or Paths</b></summary></br>
+Translate placeholders if they are exposed for translation. </br>
+  
+| Source | Translation |
+| --- | --- |
+| https://`<server name>`:7001/CmcAppinstalldir/deployment | *add your translation* |</br>
+
+*Add any language-specific instruction, or delete this sentence if not needed.*
 </details>
 
 ## Placeholders in Code Examples, URLs, or Paths
@@ -15,7 +21,6 @@ Translate placeholders if they are exposed for translation.
 | https://`<server name>`:7001/CmcAppinstalldir/deployment | *add your translation* |
 
 *Add any language-specific instruction, or delete this sentence if not needed.*
-
 
 ## Placeholders in Date Formats 
 
