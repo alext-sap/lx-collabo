@@ -1,6 +1,10 @@
 # Placeholders and Variables
 
-Placeholders can be translated in most cases. If you are uncertain, submit a query or contact LX. Variables, which are filled at run time or in the final output production, are never translated.
+Placeholders can be translated in most cases (submit a query or contact LX, if uncertain). Variables, which are filled at run time or in the final output production, are never translated.
+
+<details><summary>Collapsible Section Example</summary>
+Text about Details that not everybody in your audience is interested in.
+</details>
 
 ## Placeholders in Code Examples, URLs, or Paths
 
@@ -15,7 +19,7 @@ Translate placeholders if they are exposed for translation.
 
 ## Placeholders in Date Formats 
 
-Such placeholders appear in fields on the user interface and in text. Submit a query or contact LX to check whether you can translate these placeholders, or adjust the order to your locale (add reference to Dates).    
+Such placeholders appear in fields on the user interface and in text. Submit a query or contact LX to check whether they can be translated or the sequence of characters can be adjusted to the convention of the locale (see [Date, Time, Timezone, Calendar](template/04_locale-specific_conventions/date_time_timezone_calendar.md)).    
 
 | Source | Translation |
 | --- | --- |
