@@ -13,4 +13,4 @@ Translations should sound natural to the reader, as if the text were originally 
 
 ### Related Information
 
-* [Additional Guidance for Translators](https://wiki.wdf.sap.corp/wiki/display/SLS/Additional+Guidance+for+Translators)
+* [Additional Guidance for Translators](./template/06_additional_guidance_for_translators.md)
