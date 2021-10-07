@@ -1,9 +1,9 @@
 deliverable:
 - buildname: _001
-  label: Github LX Project
-  language: en-US
+  label: Github LX Project Japanese
+  language: ja-JP
   lastmodifiedby: alexander.tusa@sap.com
-  loio: loio_github_pgitty
+  loio: loio_github_pgitty_japanese
   owner: i840200
   product: SAP_lx_project
   rootfile: upload.zip
@@ -19,7 +19,7 @@ outputmeta:
   version_name: Test Version
   version_sapid: null
 mapref:
-  - title: "SAP LX Collaboration Guide"
+  - title: "SAP LX Collaboration Guide Japanese"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
     shortdesc: "Collaboration guide."
 nav:
