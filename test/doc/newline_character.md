@@ -1,6 +1,6 @@
-# Newline Characters
+# Newline Character
 
-Tags for newline characters can usually be placed anywhere in translation as long as they appear on their own.
+Tags for newline character can usually be placed anywhere in translation as long as they appear on their own.
 
 | XTM Workbench | HTML Output |
 | --- | --- |

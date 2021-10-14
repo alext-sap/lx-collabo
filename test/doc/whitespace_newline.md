@@ -4,4 +4,4 @@ Other Markdown syntax and markups can appear as tags under certain circumstances
 
 * [Variable](variable.md)
 * [Whitespace Characters](whitespace_characters.md)
-* [Newline Characteers](newline_characters.md)
+* [Newline Characteer](newline_character.md)
