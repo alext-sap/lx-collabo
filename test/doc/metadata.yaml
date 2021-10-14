@@ -24,4 +24,4 @@ mapref:
     shortdesc: "Markdown translation."
 nav:
   - title: "Inline Tag Handling"
-    filename: "doc/inline_tag_handling.md"
+    filename: "inline_tag_handling.md"
