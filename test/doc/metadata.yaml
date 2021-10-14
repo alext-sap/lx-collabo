@@ -40,5 +40,12 @@ nav:
       filename: "code.md"
     - title: "Other Markdown Syntax and Markups"
       filename: "whitespace_newline.md"
+      subnav:
+      - title: "Variable"
+        filename: "variable.md"
+      - title: "Whitespace Characters"
+        filename: "whitespace_characters.md"
+      - title: "Newline Characters"
+        filename: "newline_characters.md"
   - title: "Admonitions"
     filename: "admonitions.md"
