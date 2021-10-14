@@ -23,6 +23,5 @@ The description of inline tags tells you purposes they serve including:
 * [Image/Icon](image_icon.md)
 * [Code](code.md)
 * [Whitespace/Newline](whitespace_newline.md)
-* [Variable](variable.md)
 
 > The **Visual mode** available for DITA translation is currently unavailable for Markdown. The English output in HTML can be viewed by downloading and opening the zip file attached to your XTM project.
