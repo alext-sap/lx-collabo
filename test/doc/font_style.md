@@ -7,3 +7,9 @@ Two same-looking tags, both named "emphasis", are responsible for bold and itali
 |**XTM Workbench**|HTML Output|
 |---|---|
 |![bold](bold_xtm.jpg)|![bold](bold_html.jpg)|
+
+**Italics**: Contains a pair of one asterisk (\*). Typically used to indicate a title with no hyperlink or emphasis.
+
+|**XTM Workbench**|HTML Output|
+|---|---|
+|![bold](italics_xtm.jpg)|![bold](italics_html.jpg)|
