@@ -30,3 +30,5 @@ nav:
     subnav:
     - title: "Font Style"
       filename: "font_style.md"
+    - title: "Named Parameter"
+      filename: "named_parameter.md"
