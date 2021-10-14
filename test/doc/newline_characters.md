@@ -1,4 +1,4 @@
-# Newline characters
+# Newline Characters
 
 Tags for newline characters can usually be placed anywhere in translation as long as they appear on their own.
 
