@@ -32,3 +32,7 @@ nav:
       filename: "font_style.md"
     - title: "Named Parameter"
       filename: "named_parameter.md"
+    - title: "Hyperlinked Text"
+      filename: "hyperlinked_text.md"
+    - title: "Image/Icon"
+      filename: "image_icon.md"
