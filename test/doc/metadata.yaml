@@ -23,8 +23,10 @@ mapref:
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
     shortdesc: "Markdown translation."
 nav:
-  - title: "Inline Tag Handling"
-    filename: "inline_tag_handling.md"
+  - title: "Translating Markdown in XTM"
+    filename: "markdown_translation.md"
+  - title: "Inline Tags"
+    filename: "inline_tags.md"
     subnav:
     - title: "Font Style"
       filename: "font_style.md"
