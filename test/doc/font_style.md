@@ -12,4 +12,4 @@ Two same-looking tags, both named "emphasis", are responsible for bold and itali
 
 |**XTM Workbench**|HTML Output|
 |---|---|
-|![bold](italics_xtm.jpg)|![bold](italics_html.jpg)|
+|![italics](images/italics_xtm.jpg)|![italics](images/italics_html.jpg)|
