@@ -4,12 +4,12 @@ Place inline tags in correct sequence and position in translation. Failure to do
 
 Check the description and content of inline tags in the Inline tags view of XTM Workbench. Different tags serve different purposes in HTML output including:
 
-    * Font style
-    * Named parameter
-    * Hyperlinked text
-    * Image/Icon
-    * Code
-    * Whitespace/Newline
-    * Variable
+* Font style
+* Named parameter
+* Hyperlinked text
+* Image/Icon
+* Code
+* Whitespace/Newline
+* Variable
 
-    The Visual mode is currently unavailable when translating Markdown files. The English output in HTML can be viewed here for your reference:
+    The Visual mode is currently unavailable when translating Markdown files. The English output in HTML can be viewed by downloading and opening the zip file here:
