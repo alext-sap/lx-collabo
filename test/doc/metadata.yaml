@@ -25,3 +25,6 @@ mapref:
 nav:
   - title: "Inline Tag Handling"
     filename: "inline_tag_handling.md"
+    subnav:
+    - title: "Font Style"
+      filename: "font_style.md"
