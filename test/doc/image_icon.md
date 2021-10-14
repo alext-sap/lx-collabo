@@ -11,6 +11,7 @@ A few tags are used for an image, diagram, or screenshot.
 | ![image](images/image_xtm.jpg) | ![image](images/image_html.jpg) |
 
 Defined as a variable, an icon tag consists of a pair of colons and the link for the icon.
+
 | XTM Workbench | HTML Output |
 | --- | --- |
 | ![icon](images/icon_xtm.jpg) | ![icon](images/icon_html.jpg) |
