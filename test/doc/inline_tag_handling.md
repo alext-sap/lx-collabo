@@ -12,4 +12,4 @@ Check the description and content of inline tags in the Inline tags view of XTM 
 * Whitespace/Newline
 * Variable
 
-    The Visual mode is currently unavailable when translating Markdown files. The English output in HTML can be viewed by downloading and opening the zip file here:
+> The Visual mode is currently unavailable when translating Markdown files. The English output in HTML can be viewed by downloading and opening the zip file here:
