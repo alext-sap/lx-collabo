@@ -10,7 +10,7 @@ It is helpful to remember that green tags typically represent formatting such as
 ![bold](images/bold_html.jpg)<br>
 ![parameter](images/named_parameter_html.jpg)
 
-It is important to check what each tag represents in the **Inline tags** view of XTM Workbench so inline tags are placed in correct sequence and position in translation. Failure to do so can result in malformed output.
+It is important to check what each tag represents in the **Inline tags** view of XTM Workbench so inline tags are placed in correct sequence and position in translation. Failure to do so can result in malformed or incorrect output.
 
 ![tag view](images/inline_tag_view_bold.jpg)<br>
 ![tag view](images/inline_tag_view_parameter.jpg)
