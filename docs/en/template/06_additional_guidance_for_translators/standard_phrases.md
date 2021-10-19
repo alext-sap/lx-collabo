@@ -5,10 +5,10 @@ This section discusses texts that are used as a standard phrase in SAP products 
 *List texts that should be translated consistently as a standard phrase. The following are examples:*
 
 * *"For more information, see...."*
-* *"For more information about <topic>, see..."*
+* *"For more information about \<topic\>, see..."*
 * *"We recommend...."*
 * *"Failed to...."*
-* *"Please contact <contact> for questions or inquiries."*
+* *"Please contact \<contact\> for questions or inquiries."*
 * *Examples under "Standard Formulations" in the existing style guide*
 * *People-centric language phrases:*
     * *"Oops!"*
