@@ -4,7 +4,7 @@ Tables provide a structured overview of information and they are easy to scan.
 
 *Provide guielines on translating different table elements.*
 
-> "*Title*"
+> #### *Title*
 > 
 > |*Header*|*Header*|*Header*|
 >|---|---|---|
