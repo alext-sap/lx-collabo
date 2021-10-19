@@ -24,17 +24,18 @@ mapref:
     shortdesc: "Collaboration guide."
 nav:
   - title: "About"
-    filename: "template/0_about.md"
+    filename: "template/00_about.md"
   - title: "General Reference"
     filename: "template/00_general_references.md"
   - title: "SAP Terminology"
-    filename: "template/01_sap_terminology.md"
+    filename: "template/01_sap_terminology/01_sap_terminology.md"
     subnav:
     - title: "Translating Terms in SAPterm"
       filename: "template/01_sap_terminology/translating_terms_in_sapterm.md"
     - title: "SAP Product Names"
       filename: "template/01_sap_terminology/sap_product_names.md"
   - title: "Voice and Tone"
+    filename: "template/02_voice_and_tone/02_voice_and_tone.md"
     subnav:
     - title: "Natural Language"
       filename: "template/02_voice_and_tone/natural_language.md"
@@ -42,9 +43,8 @@ nav:
       filename: "template/02_voice_and_tone/bias-free_language_and_communication.md"
     - title: "People-Centric Language"
       filename: "template/02_voice_and_tone/people-centric_language.md"
-    filename: "template/02_voice_and_tone.md"
   - title: "Grammar and Mechaics"
-    filename: "template/03_grammar_and_mechanics.md"
+    filename: "template/03_grammar_and_mechanics/03_grammar_and_mechanics.md"
     subnav:
     - title: "Abbreviations"
       filename: "template/03_grammar_and_mechanics/abbreviations.md"
@@ -75,7 +75,7 @@ nav:
     - title: "Tables"
       filename: "template/03_grammar_and_mechanics/tables.md"
   - title: "Locale-Specific Conventions"
-    filename: "template/04_locale-specific_conventions.md"
+    filename: "template/04_locale-specific_conventions/04_locale-specific_conventions.md"
     subnav:
     - title: "Numbers"
       filename: "template/04_locale-specific_conventions/numbers.md"
@@ -86,7 +86,7 @@ nav:
     - title: "Unit of Measurement"
       filename: "template/04_locale-specific_conventions/unit_of_measurement.md"
   - title: "User Interface Element Texts"
-    filename: "template/05_user_interface_element_texts.md"
+    filename: "template/05_user_interface_element_texts/05_user_interface_element_texts.md"
     subnav:
     - title: "Hotkeys (non-ABAP only)"
       filename: "template/05_user_interface_element_texts/hotkeys.md"
@@ -95,7 +95,7 @@ nav:
     - title: "UI Text Types (non-ABAP only)"
       filename: "template/05_user_interface_element_texts/ui_text_types.md"
   - title: "Additional Guidance for Translators"
-    filename: "template/06_additional_guidance_for_translators.md"
+    filename: "template/06_additional_guidance_for_translators/06_additional_guidance_for_translators.md"
     subnav:
     - title: "Common Translation Mistakes"
       filename: "template/06_additional_guidance_for_translators/common_translation_mistakes.md"
