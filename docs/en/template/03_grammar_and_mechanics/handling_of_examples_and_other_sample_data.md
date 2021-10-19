@@ -14,6 +14,7 @@ The source text may illustrate texts using examples such as personal names, comp
 
 *If there are no additional instructions, remove the text in italics.*
 
-### Related Information 
-* Bias-free Communication
-* Geographical Names 
+### Related Information
+
+* [Bias-free Language and Communication](../02_voice_and_tone/bias-free_language_and_communication.md)
+* [Geographical Names](geographic_names.md)

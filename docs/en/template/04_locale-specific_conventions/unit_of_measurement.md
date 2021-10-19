@@ -9,4 +9,4 @@ Translate the unit of measurement but do not replace it with locale-specific uni
 ### Related information
 
 * [Numbers](numbers.md)
-* [Abbreviations](/template/grammar_and_mechanics/abbreviations.md)
+* [Abbreviations](../grammar_and_mechanics/abbreviations.md)

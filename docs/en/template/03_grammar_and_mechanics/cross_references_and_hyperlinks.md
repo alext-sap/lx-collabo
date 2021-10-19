@@ -10,10 +10,10 @@ Cross-references and hyperlinks are used to point the end user to additional or 
 *For example:*
 
 * *Should you use quotation marks for a cross-reference or hyperlink?*
-* *Should translators use standard formulations? If so, elaborate on those standard formulations. (You can include this information under [Standard Phrases](/docs/template/06_additional_guidance_for_translators/standard_phrases.md).)*
+* *Should translators use standard formulations? If so, elaborate on those standard formulations. (You can include this information under [Standard Phrases](../06_additional_guidance_for_translators/standard_phrases.md).)*
 * *Should the title be translated or its translation should be provided in parentheses for the end user's sake in your language if the target is not translated?*
 
 ### Related Information
 
-* [Placeholders/Variables](/docs/template/03_grammar_and_mechanics/placeholders_variables.md)
-* [Standard Phrases](/docs/template/06_additional_guidance_for_translators/standard_phrases.md)
+* [Placeholders/Variables](placeholders_variables.md)
+* [Standard Phrases](../06_additional_guidance_for_translators/standard_phrases.md)

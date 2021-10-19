@@ -15,7 +15,7 @@ Translate placeholders if they are exposed for translation.
 
 <details><summary><b>Placeholders in Date Formats</b></summary>
 
-Such placeholders appear in fields on the user interface and in text. Submit a query or contact LX to check whether they can be translated or the sequence of characters can be adjusted to the convention of the locale (see [Date, Time, Timezone, Calendar](/template/04_locale-specific_conventions/date_time_timezone_calendar.md)). 
+Such placeholders appear in fields on the user interface and in text. Submit a query or contact LX to check whether they can be translated or the sequence of characters can be adjusted to the convention of the locale (see [Date, Time, Timezone, Calendar](../04_locale-specific_conventions/date_time_timezone_calendar.md)). 
   
 | Source | Translation |
 | --- | --- |
@@ -47,5 +47,5 @@ Even though authors are asked to avoid using variables that replace translatable
 
 ### Related Information
 
-* [User Interface Element Texts](/template/05_user_interface_element_texts.md) 
-* [Files, Folders, and Paths](/template/03_grammar_and_mechanics/files_folders_and_paths.md)
+* [User Interface Element Texts](../05_user_interface_element_texts/05_user_interface_element_texts.md) 
+* [Files, Folders, and Paths](files_folders_and_paths.md)
