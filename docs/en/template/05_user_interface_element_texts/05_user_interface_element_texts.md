@@ -46,7 +46,7 @@ Follow the general guidelines regarding capitalization, punctuation, and other s
 </details>
   
 <details>
-  <summary>Reference: English Capitalization Rules on UI Element Texts<img src="images/uielements.jpg" alt="English UI Capitalization Rules"></summary><br>
+  <summary>Reference: English Capitalization Rules on UI Element Texts<img src="template/images/uielements.jpg" alt="English UI Capitalization Rules"></summary><br>
 </details>
   
   
