@@ -5,9 +5,9 @@ This section provides guidance on the use of abbreviations (including acronyms) 
 * Don't adopt the abbreviation used in source blindly in translation. Use the one commonly used in your language.
 * Ask if you don't know what the abbreviation in source stands for.
 
-*If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](/docs/en/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
+*If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
 
-See [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
+See [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
 
 ## When Abbreviations Are Needed in Translation
 
@@ -28,9 +28,9 @@ You may need to shorten the translation when there is not enough sapce for the f
    * Ensure that it is not mistaken for a typo.
    * Use the same abbreviation consistently and not for different words.
 
-*If you want to provide a list of abbreviated forms for your language, you may do so in [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
+*If you want to provide a list of abbreviated forms for your language, you may do so in [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
 
-See [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
+See [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
 
 ## Miscellaneous
 
@@ -45,6 +45,7 @@ Even though the usage of & and + are discouraged in English source texts, they m
 
 	 
 ### Related Information
-* Acceptable Abbreviations and Acronyms
-* Characters, Symbols, and Spaces
+
+* [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md)
+* [Characters, Symbols, and Spaces](characters_symbols_and_spaces.md)
 
