@@ -50,7 +50,7 @@ TBA
   
 <details><summary><b>Reference: English Capitalization Rules on UI Element Texts</b></summary>
 
-<img src="template/images/uielements.jpg" alt="UI Element Examples">
+<img src="../images/uielements.jpg" alt="UI Element Examples">
 </details>
   
   
