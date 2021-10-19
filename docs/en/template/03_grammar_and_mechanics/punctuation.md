@@ -13,42 +13,52 @@ Follow the standard rules on punctuation as defined in General References.
 * *Do double-byte languages require specific punctuation instructions?*
 
 <details><summary><b>Spaces</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Periods</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Colons</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Commas</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Hyphens and Dashes</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Semicolons</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Parentheses and Brackets</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Quotation Marks</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Apostrophes</b></summary>
+
 TBA
 </details>
 
 <details><summary><b>Slashes</b></summary>
+
 TBA
 </details>
 
