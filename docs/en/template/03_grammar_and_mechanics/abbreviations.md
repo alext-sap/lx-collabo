@@ -5,7 +5,7 @@ This section provides guidance on the use of abbreviations (including acronyms) 
 * Don't adopt the abbreviation used in source blindly in translation. Use the one commonly used in your language.
 * Ask if you don't know what the abbreviation in source stands for.
 
-*If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
+*If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](/docs/en/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
 
 See [Acceptable Abbreviations and Acronyms](/docs/template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
 
