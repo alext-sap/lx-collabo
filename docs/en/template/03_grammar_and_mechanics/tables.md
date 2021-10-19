@@ -5,9 +5,9 @@ Tables provide a structured overview of information and they are easy to scan.
 *Provide guielines on translating different table elements.*
 
 > *Title*
-> |*Header*|*Header*|*Header*|
-> |---|---|---|
-> |*Cell*|*Cell*|*Cell*|
+> | *Header* | *Header* | *Header* |
+> | --- | --- | --- |
+> | *Cell* | *Cell* | *Cell* |
 >
 > <sup>*Caption*</sup>
 
