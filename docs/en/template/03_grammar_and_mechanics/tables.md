@@ -9,10 +9,11 @@ Tables provide a structured overview of information and they are easy to scan.
 * *guideline 3 (ex.: punctuation)*
 
 > "*Title*"
+> #### *Title*
 > 
 > |*Header*|*Header*|*Header*|
->|---|---|---|
->|*Cell*|*Cell*|*Cell*|
+> |---|---|---|
+> |*Cell*|*Cell*|*Cell*|
 >
 > <sup>*Caption*</sup>
 
