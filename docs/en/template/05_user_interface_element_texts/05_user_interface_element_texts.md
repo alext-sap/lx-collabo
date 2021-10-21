@@ -4,6 +4,8 @@ This section discusses guidelines on translating common UI element texts.
 
 *Provide guidelines on translating titles, labels, or descriptions of common UI elements below with regards to capitalization, punctuation, and other style-related points as applicable.*
 
+*Feel free to rearrange or reorganize the topics in this section to fit your preferred style.*
+
 *If there is no guidelines, delete the content of this section except for the following statement:*
 
 Follow the general guidelines regarding capitalization, punctuation, and other style-related points when translating common UI element texts.

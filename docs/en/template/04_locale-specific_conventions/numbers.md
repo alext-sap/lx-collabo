@@ -1,6 +1,6 @@
 # Numbers
 
-This section discusses topics that are related to numbers in translation.
+This section discusses the following topics that are related to numbers in translation.
 
 *Provide guidelines for each of the topics below. If no specific guidelines are necessary, follow the instructions under each topic.*
 
@@ -11,7 +11,7 @@ This section discusses topics that are related to numbers in translation.
 * *123.45*
 * *12,345*
 
-*If no guidelines are necessary, leave the following fallback text:*
+*If no guidelines are necessary, leave the following statement:*
 
 Follow the standard guidelines in the references provided in [General References](../00_general_references.md).
 </details>
@@ -29,7 +29,7 @@ Follow the standard guidelines in the references provided in [General References
 
     *first name, third-party company, third person [grammar], first-language proficiency, first [adverb], the twenty-first century*
 
-*If no specific guidelines are necessary, leave the following fallback statement:*
+*If no specific guidelines are necessary, leave the following statement:*
 
 Follow the standard guidelines in the references provided in [General References](../00_general_references.md).
 </details>
@@ -43,7 +43,7 @@ Follow the standard guidelines in the references provided in [General References
 * *The page has 50,000–150,000 views per day.*
 * *Exception: From 2013 to 2015, the sales revenue increased considerably.*
 
-*If no specific guidelines are necessary, leave the following fallback statement:*
+*If no specific guidelines are necessary, leave the following statement:*
 
 Follow the standard guidelines in the references provided in [General References](../00_general_references.md).
 </details>
