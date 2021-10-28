@@ -30,5 +30,6 @@
         * icon alt texts
     * Limited support for italics with Asian languages
 * For correction
-    * "<Application ID\\>" (docs\guides\features\logging\admin\client-logs.md): Escape leading angle bracket<br>
+    * "<Application ID\\>" (docs\guides\features\logging\admin\client-logs.md): Escape leading angle bracket
+
     ![correction](images/correction.jpg)

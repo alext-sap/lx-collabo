@@ -8,6 +8,7 @@
 **Benefits**
 
 * Simpler syntax configuration
-* See also [content in admonitions (text blocks)](text_blocks.md)<br>
+* See also [content in admonitions (text blocks)](text_blocks.md)
+
     ![table pipe](images/table_pipe.jpg)
     ![table space](images/table_space.jpg)

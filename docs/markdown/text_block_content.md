@@ -7,6 +7,7 @@
 **Benefits**
 
 * Less need to customize the configuration for various combination of syntax characters
-* More streamlined configuration<br>
+* More streamlined configuration
+
     ![body](images/content_body.jpg)
     ![block](images/content_block.jpg)

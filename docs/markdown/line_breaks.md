@@ -8,6 +8,7 @@
 **Benefits**
 
 * Reduce chances of merged texts
-* Better translation reuse<br>
+* Better translation reuse
+
     ![line breaks 1](images/line_breaks_01.jpg)
     ![line breaks 2](images/line_breaks_02.jpg)

@@ -8,7 +8,8 @@
 **Benefits**
 
 * Easy identification as ordinary characters
-* Possible to translate if necessary<br>
+* Possible to translate if necessary
+
     ![special characters](images/special_characters_01.jpg)
     ![exception](images/special_characters_exception.jpg)
     
