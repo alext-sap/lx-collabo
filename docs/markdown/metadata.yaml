@@ -1,0 +1,40 @@
+deliverable:
+- buildname: _001
+  label: LX Markdown Project
+  language: en-US
+  lastmodifiedby: koichi.tsumoto@sap.com
+  loio: loio_github_pgitty
+  owner: i819666
+  product: SAP_lx_project
+  rootfile: upload.zip
+  transtype: html5.uacp
+  shortdesc: Test shortdesc
+  version: DRAFT
+  gh_edit_prefix: "https://github.wdf.sap.corp/I819666/LX-Markdown-Support/blob/master/docs"
+outputmeta:
+- product: LX_TEST
+  product_name: LX Markdown Project
+  product_sapid: null
+  version: DRAFT
+  version_name: DRAFT Version
+  version_sapid: null
+mapref:
+  - title: "LX Markdown Project"
+    loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
+    shortdesc: "Markdown best practice."
+nav:
+  - title: "Overview"
+    filename: "overview.md"
+    subnav:
+    - title: "Admonitions"
+      filename: "admonitions.md"
+    - title: "Font Style Semantics"
+      filename: "font_style.md"
+    - title: "Tables"
+      filename: "tables.md"
+    - title: "Line Breaks"
+      filename: "line_breaks.md"
+    - title: "Special Characters"
+      filename: "special_characters.md"
+    - title: "Content in Admonitions (Text Blocks"
+      filename: "text_block_content.md"
