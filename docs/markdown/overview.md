@@ -13,9 +13,9 @@
         * [font style semantics](font_style.md)
         * [tables](tables.md)
         * [line breaks](line_breaks.md)
-        * [special characters](special_characters.md)
+        * [special characters](special_characters.md)\* (being checked)
         * [content in admonitions (text blocks)](text_block_content.md)
-        * embedded HTML elements\* (*to be checked*)
+        * embedded HTML elements\* (*being checked*)
 * Ideas for support
     * Source
         * Perform checks during English build for non-compliant files
