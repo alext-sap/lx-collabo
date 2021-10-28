@@ -16,7 +16,8 @@ Some text to follow.
 * Protection of the syntax
 * Better segmentation
 * Correct icon display in target
-* Translated titles in target.</br>
+* Translated titles in target.
+
 ![linebreak](images/admonitions_linebreak.jpg)
 ![linebreak](images/admonitions_linebreak_02.jpg)
 ![note](images/admonitions_01_title.jpg)
