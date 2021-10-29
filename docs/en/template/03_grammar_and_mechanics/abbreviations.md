@@ -21,7 +21,7 @@ You may need to shorten the translation when there is not enough sapce for the f
 * If rephrasing or omitting words doesn't help, choose an abbreviation that is the easiest for end users to recognize and understand. The following are general guidelines:  
 
    * Use a known abbreviated form or acronym such as those in a dictionary or SAPterm.
-   * Try any of the following options *(delete or add as appropriate for your language)*:<br>
+   * Try any of the following options *(delete or add as appropriate for your language)*:
       * Omit vowels
       * Join words using camelcasing
       * Cut the ending of a word (with or without a full stop)
