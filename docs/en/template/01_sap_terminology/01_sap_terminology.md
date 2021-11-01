@@ -12,7 +12,7 @@ When translating terms, follow all terminology guidelines and standards on the S
 * Do not use synonyms. That is, do not use different terms to refer to the same thing. See the [standard for synonyms and rejected terms](https://translation.sap.com/terminology.html).
 * Submit a query or follow up with LX if there are inconsistent terms in the source text. 
 
-Most concepts are best represented by terms native to their linguistic environment. See [Universal Terms](https://translation.sap.com/terminology.html) for specific guidelines on terms that should not be translated..
+Most concepts are best represented by terms native to their linguistic environment. See [Universal Terms](https://translation.sap.com/terminology.html) for specific guidelines on terms that should not be translated.
 
 ### Related Information
 
