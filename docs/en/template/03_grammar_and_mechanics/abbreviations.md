@@ -11,7 +11,7 @@ See [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_transl
 
 ## When Abbreviations Are Needed in Translation
 
-You may need to shorten the translation when there is not enough sapce for the full text. This can happen with UI texts that have text length restriction set. In such a case, follow the guidelines below:
+You may need to shorten the translation when there is not enough space for the full text. This can happen with UI texts that have text length restriction set. In such a case, follow the guidelines below:
 
 * Check first if the length restriction can be adjusted or removed. This can be done by submitting a query.
 * If it cannot be adjusted or removed, consider rephrasing the translation or omitting words in a way that doesn't alter the meaning of the source text. For instance, you may omit the words in bold in the example below:
