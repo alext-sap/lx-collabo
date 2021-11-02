@@ -1,9 +1,10 @@
 # Cross-References and Hyperlinks
 
-Cross-references and hyperlinks are used to point the end user to additional or related information. They need to be placed in the right position in translation and, typically, there is no other work required. But there are a few things to keep in mind.
+Cross-references are used to point the end user to additional or related information. They may or may not have hyperlinks because hyperlinks are not always desirable or technically possible. The following are the general guidelines:
 
-* Don't append any explanatory text (such as "English only") in parentheses if the target of a cross-reference or hyperlink is not translated.
-* Submit a query if the title of a cross-reference or hyperlink is made available for translation and if its translation status is not clear.
+* Submit a query if the translation status of a cross-reference is not clear.
+* Don't append any explanatory text (such as "English only") in parentheses if the target of a cross-reference is not translated.
+* Pay attention to the author's comment for the lozalizability of hyperlinks in manual translation.
 
 *Provide any other guidelines on how to translate cross-references and hyperlinks.*
 
