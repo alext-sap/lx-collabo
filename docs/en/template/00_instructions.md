@@ -28,7 +28,5 @@ As said, we are grateful for your participation in this exercise. We look forwar
 
 Best regards,
 
-Style Guide Update Project Team
-
-(Jaismin, Jennifer, Koichi, Samira)
+Style Guide Update Project Team (Jaismin, Jennifer, Koichi, Samira)
 
