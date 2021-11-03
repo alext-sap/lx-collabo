@@ -18,6 +18,8 @@ Here are the five main aspects we want you to focus on during this exercise:
 
 There are two ways to provide feedback directly on any Help Portal page. One is to use the comment section on the right side of the page. This may be good to use for a general comment about the topic.
 
+![General comment section]
+
 
 The other is to use the inline comment functionality. This may be good to use for a comment on a specific part of the text. Highlight the text you want to comment on and select Add inline comment that pops up.
 
