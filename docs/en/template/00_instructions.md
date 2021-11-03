@@ -27,6 +27,8 @@ Feedback on missing topics, the overall structure of the template, or the genera
 As said, we are grateful for your participation in this exercise. We look forward to hearing your thoughts on the template.
 
 Best regards,
+
 Style Guide Update Project Team
+
 (Jaismin, Jennifer, Koichi, Samira)
 
