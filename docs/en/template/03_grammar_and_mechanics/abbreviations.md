@@ -3,7 +3,9 @@
 This section provides guidance on the use of abbreviations (including acronyms) in translation. The following are general guidelines:
 
 * Don't adopt the abbreviation used in source blindly in translation. Use the one commonly used in your language.
+* Abbreviations (and acronyms) may be used in translation if they are more common than their full form.
 * Ask if you don't know what the abbreviation in source stands for.
+* *Add any other guidelines 
 
 *If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
 
