@@ -56,7 +56,7 @@ nav:
       filename: "template/03_grammar_and_mechanics/cross_references_and_hyperlinks.md"
       subnav:
       - title: "Cross-References for Untranslated Target"
-        filename: "template/03_grammar_and_mechanics/cross_references_for_untranslated_target.md"
+        filename: "template/03_grammar_and_mechanics/cross-references_for_untranslated_target.md"
     - title: "English-only Items"
       filename: "template/03_grammar_and_mechanics/english-only_items.md"
     - title: "Files, Folders, and Paths"
