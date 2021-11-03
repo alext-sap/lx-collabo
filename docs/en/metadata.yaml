@@ -48,14 +48,15 @@ nav:
     subnav:
     - title: "Abbreviations"
       filename: "template/03_grammar_and_mechanics/abbreviations.md"
-    - title: "Acronyms"
-      filename: "template/03_grammar_and_mechanics/acronyms.md"
     - title: "Capitalization"
       filename: "template/03_grammar_and_mechanics/capitalization.md"
     - title: "Characters, Symbols, and Spaces"
       filename: "template/03_grammar_and_mechanics/characters_symbols_and_spaces.md"
-    - title: "Cross-references and Hyperlinks"
+    - title: "Cross-References and Hyperlinks"
       filename: "template/03_grammar_and_mechanics/cross_references_and_hyperlinks.md"
+      subnav:
+      - title: "Cross-References for Untranslated Target"
+        filename: "template/03_grammar_and_mechanics/cross_references_for_untranslated_target.md"
     - title: "English-only Items"
       filename: "template/03_grammar_and_mechanics/english-only_items.md"
     - title: "Files, Folders, and Paths"
