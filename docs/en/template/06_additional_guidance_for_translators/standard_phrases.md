@@ -4,8 +4,12 @@ This section discusses texts that are used as a standard phrase in SAP products 
 
 *List texts that should be translated consistently as a standard phrase. The following are examples:*
 
-* *"For more information, see...."*
-* *"For more information about \<topic\>, see..."*
+* *"For more information, see \<target\>."*
+    * For more information, see the installation guide.
+    * For more information, see the installation guide for SAP Invented Product.
+    * For more information, see the installation guide and search for [Creating a Back-End User]().
+    * For more information, see SAP Invented Product on SAP Help Portal at https://help.sap.com/viewer/invprod.
+* *"For more information about \<topic\>, see \<target\>."*
 * *"We recommend...."*
 * *"Failed to...."*
 * *"Please contact \<contact\> for questions or inquiries."*

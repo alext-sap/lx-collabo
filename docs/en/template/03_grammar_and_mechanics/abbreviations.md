@@ -5,7 +5,7 @@ This section provides guidance on the use of abbreviations (including acronyms) 
 * Don't adopt the abbreviation used in source blindly in translation. Use the one commonly used in your language.
 * Abbreviations (and acronyms) may be used in translation if they are more common than their full form.
 * Ask if you don't know what the abbreviation in source stands for.
-* *Add any other guidelines 
+* *Add any other guidelines such as how to handle acronyms in plural form.*
 
 *If you want to provide a list of abbreviations for your language, you may do so in [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md) with the statement below. If no need, delete this instruction together with the statement.*
 
@@ -34,18 +34,6 @@ You may need to shorten the translation when there is not enough space for the f
 
 See [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md).
 
-## Miscellaneous
-
-Even though the usage of & and + are discouraged in English source texts, they may be used on devices where space is an issue. 
-
-*Translate the following examples. Add additional instructions, as necessary.*
-
-| Source | Translation |
-| --- | --- |
-| Confirm + Delete	| *enter the translation* |
-| Approve & Save | *enter the translation* |
-
-	 
 ### Related Information
 
 * [Acceptable Abbreviations and Acronyms](../06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md)
