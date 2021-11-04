@@ -18,11 +18,11 @@ Here are the five main aspects we want you to focus on during this exercise:
 
 There are two ways to provide feedback directly on any Help Portal page. One is to use the **Comments** pane on the right side of the page. This may be good to use for a general comment about the topic.
 
-![image](https://user-images.githubusercontent.com/84086932/140213872-15b78c88-3c27-4d86-bf83-960fc3f277e1.png)
+![image](./images/general_comment.jpg)
 
 The other is to use the inline comment functionality. This may be good to use for a comment on a specific part of the text. Highlight the text you want to comment on and click the inline comment icon that pops up.
 
-<img src="https://user-images.githubusercontent.com/84086932/140217439-17a2c986-8ff1-48d1-bb8e-c41cbfcd098d.png" width="670" height="190">
+![image](./images/inline_comment.jpg)
 
 Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered at the top page **LINK HERE**
 
