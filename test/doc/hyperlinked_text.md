@@ -2,9 +2,15 @@
 
 A few tags are used for a hyperlinked text.
 
-* Tag containing a pair of square brackets ("[" and "]") that wraps the text.
+* Tag containing a pair of square brackets ("[" and "]") that wraps the link text.
 * Tag containing a pair of parentheses ("(" and ")") that wraps the URL or link.
 * Tag for the actual URL or link.
+
+**Markdown syntax**
+
+```
+[link text](URL/link)
+```
 
 | XTM Workbench | HTML Output |
 | --- | --- |
