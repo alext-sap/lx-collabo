@@ -32,7 +32,7 @@ We will reply to the comments you leave on the pages through the **Comments** pa
 
 ![reply](./images/comments_pane.jpg)
 
-Be sure to subscribe to the template by clicking the settings icon in the **Comments** pane and selecting **Subscribe to Guide** so you will be notified of our reply. You can choose the frequency of notification as well.
+Be sure to subscribe to the template by clicking the settings icon in the **Comments** pane and selecting **Subscribe to Guide** so you will be notified of our reply by email. You can choose the frequency of notification as well.
 
 ![subscribe](./images/subscribe.jpg)
 
