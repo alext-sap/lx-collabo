@@ -28,7 +28,7 @@ Feedback on missing topics, the overall structure of the template, or the genera
 
 ## Post-Review Communication
 
-We will reply to the comments you leave on the pages in the **Comments** pane.
+We will reply to the comments you leave on the pages through the **Comments** pane.
 
 ![reply](./images/comments_pane.jpg)
 
