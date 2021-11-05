@@ -9,7 +9,7 @@
 ```
 !!! Note "Note"
 
-Some text to follow.
+    Some text to follow.
 ```
 **Benefits**
 
