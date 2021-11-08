@@ -23,3 +23,5 @@ In addition, we would like you to share **your opinion about this new online for
 * Do you like it? Do you prefer it to Word/PDF format?
 
 * Will you be willing to learn how to write in a new format?
+
+* Do you have any concerns about this new approach?
