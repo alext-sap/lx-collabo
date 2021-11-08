@@ -16,6 +16,10 @@ Here are the five main aspects we want you to focus on during this exercise:
 
 ## How to Provide Feedback
 
+First of all, make sure that you are viewing the template version for your language. To change the language, use in the drop-down menu next to "SAP Translation Style Guide Project".
+
+[screenshot]
+
 There are two ways to provide feedback directly on any Help Portal page. One is to use the **Comments** pane on the right side of the page. This may be good to use for a general comment about the topic.
 
 ![image](./images/general_comment.jpg)
