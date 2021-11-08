@@ -24,7 +24,7 @@ The other is to use the inline comment functionality. This may be good to use fo
 
 ![image](./images/inline_comment.jpg)
 
-Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered at the top page **About This Guide**
+Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered at the top page **About This Guide**.
 
 ## Post-Review Communication
 
