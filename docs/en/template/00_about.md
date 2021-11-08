@@ -6,7 +6,7 @@ The SAP Translation Style Guide is the basic reference work for **translators** 
 
 ## Scope
 
-The SAP Translation Style Guide is valid as of the date of publication. As of this date, the Style Guide applies to new texts. Texts already translated do not need to be adapted to the updated rules unless decided by LX Lab.
+The SAP Translation Style Guide applies to new texts. Texts already translated do not need to be adapted to the updated rules unless decided by LX Lab.
 
 The SAP Translation Style Guide applies to:
 *	Terms and definitions in the SAP terminology database SAPterm
