@@ -1,7 +1,7 @@
 deliverable:
 - buildname: _001
   label: SAP Translation Style Guide Project
-  language: en-US
+  language: lt-LT
   lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
   owner: i819666
@@ -13,7 +13,7 @@ deliverable:
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
 outputmeta:
 - product: LX_STYLE_GUIDE
-  product_name: SAP Translation Style Guide Template
+  product_name: SAP Translation Style Guide Template (Lithuanian)
   product_sapid: null
   version: DRAFT_VERSION
   version_name: Draft Version
