@@ -1,3 +1,3 @@
 # Files, Folders, and Paths
 
-Submit a query if it is not certain whether files names, folder names, and paths are available in translation.
+File and folder names and paths may be translatable either fully or partially. Submit a query if it is not certain whether they can be translated or not.

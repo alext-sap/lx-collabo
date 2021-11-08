@@ -10,10 +10,8 @@ If the translation status of a cross-reference's target is not clear, submit a q
 *Or*
 
 * Translate the cross-reference text.
-* Don't append any explanatory text (such as "English only") in parentheses. It would become wrong if the target was later translaed.
+* Don't append any explanatory text (such as "available in English") in parentheses. It would become wrong if the target was later translaed.
 
 *Or*
 
 * Leave the cross-reference text untranslated while providing its translation in parentheses.
-
-

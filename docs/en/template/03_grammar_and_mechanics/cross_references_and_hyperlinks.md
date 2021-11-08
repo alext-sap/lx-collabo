@@ -6,14 +6,12 @@ There are cases, however, where cross-reference texts and hyperlinks are made av
 
 * For translatable cross-reference texts, simply copy the translation if their target is translated.
     * See [Standard Phrases](../06_additional_guidance_for_translators/standard_phrases.md) for information on standard translation style for cross-references.
-    * See [Cross-References for Untranslated Target](cross-references_for_untranslated_target.md) for information on what to do if the target is not translated of its translation status is not clear.
+    * If the target is not translated or if its translation status is not clear, see [Cross-References for Untranslated Target](cross-references_for_untranslated_target.md) for information on what to do.
 * For localizable hyperlinks, look for the author's comment on how to localize it.
 
-*Provide any other guidelines on how to translate cross-references and hyperlinks.*
+*Provide any other guidelines on how to translate cross-references and hyperlinks. For example:*
 
-*For example:*
-
-* *Should you use quotation marks for a cross-reference or hyperlink?*
+* *Should you use quotation marks for a cross-reference?*
 
 ### Related Information
 

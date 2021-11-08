@@ -8,5 +8,6 @@ Follow the terminology standards for target languages ([Term entries (target lan
 * *are there any cases where translators should enter a non-base form (such as an imperative form instead of the infinitive form?)*
 * *are there any instructions on how to handle gerunds, etc?*
 
-### Related Information 
+### Related Information
+
 * [Terminology](https://translation.sap.com/terminology.html)
