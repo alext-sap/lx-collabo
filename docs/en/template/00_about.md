@@ -18,6 +18,8 @@ The SAP Translation Style Guide applies to:
 
 Use the comments section in this topic to provide general feedback about this template. You could let us know here if you think that any topics are missing, if you would organize the topics in a different way, or anything else that doesn't fit in a specifc topic.
 
-We would also like to ask you for our opinion about this new online format:
-Do you like it? Do you prefer it to Word/PDF format?
-Will you be willing to learn how to write in a new format?
+We would also like to ask you for **your opinion about this new online format**:
+
+* Do you like it? Do you prefer it to Word/PDF format?
+
+* Will you be willing to learn how to write in a new format?
