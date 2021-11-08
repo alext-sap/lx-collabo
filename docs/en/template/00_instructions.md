@@ -30,6 +30,8 @@ The other is to use the inline comment functionality. This may be good to use fo
 
 Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered at the top page **About This Guide**.
 
+Note: In the case of languages with multiple translation suppliers, you may see the comments from the other vendors. If you agree/disagree with a previous comment, feel free to say so in your own comment.
+
 ## Post-Review Communication
 
 We will reply to the comments you leave on the pages through the **Comments** pane.
