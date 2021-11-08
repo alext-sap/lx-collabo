@@ -1,0 +1,114 @@
+deliverable:
+- buildname: _001
+  label: SAP Translation Style Guide Template
+  language: tr-TR
+  lastmodifiedby: koichi.tsumoto@sap.com
+  loio: loio_github_pgitty
+  owner: i819666
+  product: lx_style_guide
+  rootfile: upload.zip
+  transtype: html5.uacp
+  shortdesc: Test shortdesc
+  version: Draft_VERSION
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
+outputmeta:
+- product: LX_STYLE_GUIDE
+  product_name: SAP Translation Style Guide Project
+  product_sapid: null
+  version: DRAFT_VERSION
+  version_name: Draft Version
+  version_sapid: null
+mapref:
+  - title: "SAP Translation Style Guide Template"
+    loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
+    shortdesc: "style guide template."
+nav:
+  - title: "Instructions"
+    filename: "template/00_instructions.md"
+  - title: "About This Guide"
+    filename: "template/00_about.md"
+  - title: "General Reference"
+    filename: "template/00_general_references.md"
+  - title: "SAP Terminology"
+    filename: "template/01_sap_terminology/01_sap_terminology.md"
+    subnav:
+    - title: "Translating Terms in SAPterm"
+      filename: "template/01_sap_terminology/translating_terms_in_sapterm.md"
+    - title: "SAP Product Names"
+      filename: "template/01_sap_terminology/sap_product_names.md"
+  - title: "Voice and Tone"
+    filename: "template/02_voice_and_tone/02_voice_and_tone.md"
+    subnav:
+    - title: "Natural Language"
+      filename: "template/02_voice_and_tone/natural_language.md"
+    - title: "Bias-Free Language and Communication"
+      filename: "template/02_voice_and_tone/bias-free_language_and_communication.md"
+    - title: "People-Centric Language"
+      filename: "template/02_voice_and_tone/people-centric_language.md"
+  - title: "Grammar and Mechaics"
+    filename: "template/03_grammar_and_mechanics/03_grammar_and_mechanics.md"
+    subnav:
+    - title: "Abbreviations"
+      filename: "template/03_grammar_and_mechanics/abbreviations.md"
+    - title: "Capitalization"
+      filename: "template/03_grammar_and_mechanics/capitalization.md"
+    - title: "Characters, Symbols, and Spaces"
+      filename: "template/03_grammar_and_mechanics/characters_symbols_and_spaces.md"
+    - title: "Cross-References and Hyperlinks"
+      filename: "template/03_grammar_and_mechanics/cross_references_and_hyperlinks.md"
+      subnav:
+      - title: "Cross-References for Untranslated Target"
+        filename: "template/03_grammar_and_mechanics/cross-references_for_untranslated_target.md"
+      - title: "Titles on Product Page"
+        filename: "template/03_grammar_and_mechanics/manual_product_page.md"
+    - title: "English-only Items"
+      filename: "template/03_grammar_and_mechanics/english-only_items.md"
+    - title: "Files, Folders, and Paths"
+      filename: "template/03_grammar_and_mechanics/files_folders_and_paths.md"
+    - title: "Geographic Names"
+      filename: "template/03_grammar_and_mechanics/geographic_names.md"
+    - title: "Handing of Examples and Other Sample Data"
+      filename: "template/03_grammar_and_mechanics/handling_of_examples_and_other_sample_data.md"
+    - title: "Headings and Titles"
+      filename: "template/03_grammar_and_mechanics/headings_and_titles.md"
+    - title: "Lists"
+      filename: "template/03_grammar_and_mechanics/lists.md"
+    - title: "Placeholders/Variables"
+      filename: "template/03_grammar_and_mechanics/placeholders_variables.md"
+    - title: "Punctuation"
+      filename: "template/03_grammar_and_mechanics/punctuation.md"
+    - title: "Tables"
+      filename: "template/03_grammar_and_mechanics/tables.md"
+  - title: "Locale-Specific Conventions"
+    filename: "template/04_locale-specific_conventions/04_locale-specific_conventions.md"
+    subnav:
+    - title: "Numbers"
+      filename: "template/04_locale-specific_conventions/numbers.md"
+    - title: "Currencies"
+      filename: "template/04_locale-specific_conventions/currencies.md"
+    - title: "Date, Time, Timezone, Calendar"
+      filename: "template/04_locale-specific_conventions/date_time_timezone_calendar.md"
+    - title: "Unit of Measurement"
+      filename: "template/04_locale-specific_conventions/unit_of_measurement.md"
+  - title: "User Interface Element Texts"
+    filename: "template/05_user_interface_element_texts/05_user_interface_element_texts.md"
+    subnav:
+    - title: "Hotkeys (non-ABAP only)"
+      filename: "template/05_user_interface_element_texts/hotkeys.md"
+    - title: "Object Types (ABAP only)"
+      filename: "template/05_user_interface_element_texts/object_types.md"
+    - title: "UI Text Types (non-ABAP only)"
+      filename: "template/05_user_interface_element_texts/ui_text_types.md"
+  - title: "Additional Guidance for Translators"
+    filename: "template/06_additional_guidance_for_translators/06_additional_guidance_for_translators.md"
+    subnav:
+    - title: "Common Translation Mistakes"
+      filename: "template/06_additional_guidance_for_translators/common_translation_mistakes.md"
+    - title: "Standard Phrases"
+      filename: "template/06_additional_guidance_for_translators/standard_phrases.md"
+    - title: "Words and Phrases To Be Adapted"
+      filename: "template/06_additional_guidance_for_translators/words_and_phrases_to_be_adapted.md"
+    - title: "Words and Phrases To Be Avoided"
+      filename: "template/06_additional_guidance_for_translators/words_and_phrases_to_be_avoided.md"
+    - title: "Acceptable Abbreviations and Acryonyms"
+      filename: "template/06_additional_guidance_for_translators/acceptable_abbreviations_and_acronyms.md"
