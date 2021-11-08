@@ -1,30 +1,30 @@
 deliverable:
 - buildname: _001
-  label: Github LX Project
+  label: SAP Translation Style Guide Project
   language: sr-RS
   lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
   owner: i819666
-  product: SAP_lx_project
+  product: SAP_lx_style_guide
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
-  version: TEST_VERSION
+  version: Draft_VERSION
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
 outputmeta:
-- product: LX_TEST
-  product_name: LX Test Project
+- product: LX_STYLE_GUIDE
+  product_name: SAP Translation Style Guide Template
   product_sapid: null
-  version: TEST_VERSION
-  version_name: Test Version
+  version: DRAFT_VERSION
+  version_name: Draft Version
   version_sapid: null
 mapref:
-  - title: "SAP LX Collaboration Guide"
+  - title: "SAP Translation Style Guide Template"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
-    shortdesc: "Collaboration guide."
+    shortdesc: "style guide template."
 nav:
-  - title: "About"
-    filename: "template/00_about.md"
+  - title: "Instructions"
+    filename: "template/00_instructions.md"
   - title: "General Reference"
     filename: "template/00_general_references.md"
   - title: "SAP Terminology"
@@ -57,6 +57,8 @@ nav:
       subnav:
       - title: "Cross-References for Untranslated Target"
         filename: "template/03_grammar_and_mechanics/cross-references_for_untranslated_target.md"
+      - title: "Titles on Product Page"
+        filename: "template/03_grammar_and_mechanics/manual_product_page.md"
     - title: "English-only Items"
       filename: "template/03_grammar_and_mechanics/english-only_items.md"
     - title: "Files, Folders, and Paths"
