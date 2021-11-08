@@ -1,4 +1,4 @@
-# Titles in Product Page
+# Titles on Product Page
 
 A product page is a page in the SAP Help Portal that groups deliverables for a particular product. Content on product pages is structured by content categories, and optionally can be distributed over various tabs. Sidebars are also used to offer supplementing information or feature content.
 
