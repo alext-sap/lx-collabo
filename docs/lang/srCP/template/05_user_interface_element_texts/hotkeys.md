@@ -18,7 +18,7 @@ A hotkey is a key combination that users press at runtime to trigger an action. 
 |Align _Bottom|\<example in your language\>|
 |Align _Center|\<example in your language>\|
 
-> **Note:** In rare cases, hotkeys may also be represented by a standalone character in the source text. If you encounter such standalone characters, the above instructions may not apply. Please refer to your project-specific instructions, contact your PM, or submit a query in Query Tracker.
+> In rare cases, hotkeys may also be represented by a standalone character in the source text. If you encounter such standalone characters, the above instructions may not apply. Please refer to your project-specific instructions, contact your PM, or submit a query in Query Tracker.
 
 ### Related Information
 
