@@ -15,14 +15,14 @@ The SAP Translation Style Guide applies to:
 *	Technical documentation (for example, SAP Library, system documentation)
 *	Training material
 
-## Feedback About This Template
+## *Feedback About This Template*
 
-Use the comments section in this topic to provide general feedback about this template. You could let us know here if you think that any topics are missing, if you would organize the topics in a different way, or anything else that doesn't fit in a specifc topic.
+*Use the comments section in this topic to provide general feedback about this template. You could let us know here if you think that any topics are missing, if you would organize the topics in a different way, or anything else that doesn't fit in a specifc topic.
 
-In addition, we would like you to share **your opinion about this new online format**:
+*In addition, we would like you to share **your opinion about this new online format**:
 
-* Do you like it? Do you prefer it to Word/PDF format?
+* *Do you like it? Do you prefer it to Word/PDF format?
 
-* Will you be willing to learn how to write in a new format?
+* *Will you be willing to learn how to write in a new format?
 
-* Do you have any concerns about this new approach?
+* *Do you have any concerns about this new approach?
