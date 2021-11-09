@@ -1,0 +1,1462 @@
+{
+	"info": {
+		"_postman_id": "85427b51-ac28-4300-81ff-446ea39450f5",
+		"name": "Translatioin Style Guide",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Top 8",
+			"item": [
+				{
+					"name": "English (en-US)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/en",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chinese Simplified (zh-CN)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/en",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "French (fr-FR)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/frFR",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "German (de-DE)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/de",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Japanese (ja-JP)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/ja",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Portuguese (pt-BR)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/ptBR",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Russian (ru-RU)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/ruRU",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Spanish (es-ES)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/esES",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Other Languages",
+			"item": [
+				{
+					"name": "Arabic (ar-SA)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/arSA",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Bulgarian (bg-BG)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/bgBG",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Catalan (ca-ES)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/caES",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Chinese Traditional (zh-TW)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/zhTW",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Croatian (hr-HR)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/hrHR",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Czech (cs-CZ)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/csCZ",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Danish (da-DK)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/daDK",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Dutch (nl-NL)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/nlNL",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Estonian (et-EE)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/etEE",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Finnish (fi-FI)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/fiFI",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Greek (el-GR)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/elGR",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Hebrew (he-IL)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/heIL",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Hindi (hi-IN)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/hiIN",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Hungarian (hu-HU)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/huHU",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Italian (it-IT)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/itIT",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Kazakh (kk-KZ)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/kkKZ",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Korean (ko-KR)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/koKR",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Latvian (lv-LV)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/lvLV",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Lithuanian (lt-LT)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/ltLT",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Malay (ms-MY)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/msMY",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Norwegian (no-NO)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/noNO",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Polish (pl-PL)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/plPL",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Romanian (ro-RO)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/roRO",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Serbian (sr-CP)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/srCP",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Slovakian (sk-SK)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/skSK",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Slovenian (sl-SI)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/slSI",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Swedish (sv-SE)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/svSE",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Thai (th-TH)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/thTH",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Turkish (tr-TR)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/trTR",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Ukrainian (uk-UA)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/ukUA",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Vietnamese (vi-VN)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/viVN",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
