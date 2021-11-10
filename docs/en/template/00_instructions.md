@@ -17,34 +17,39 @@ Here are the five main aspects we want you to focus on during this exercise:
 ## How To Find Template for Your Language
 
 First of all, make sure that you are viewing the template for your language. To change the language, click the language selector next to the title "SAP Translation Style Guide Template" and select your language from the drop-down menu.
+
 ![languages](./images/language_selector.jpg)
 
 Once you find your template, be sure to subscribe to it by clicking the settings icon in the **Comments** pane and selecting **Subscribe to Guide**. This allows you to receive an email notification when there is a response to your comment. You can choose the frequency of notification as well.
+
 ![subscribe](./images/subscribe.jpg)
 
-> If the pane is not visible, you can show it by clicking the **Comment** icon ![icon](./images/icon_comment.jpg) on the right side of the page.
+> If the pane is not visible, you can show it by clicking the **Comments** icon ![icon](./images/icon_comment.jpg) on the right side of the page.
 
 
 ## How To Provide Feedback
 
 There are two ways to provide feedback directly on any Help Portal page. One is to use the **Comments** pane on the right side of the page. This may be good to use for a general comment about the topic.
+
 ![image](./images/general_comment.jpg)
 
 The other is to use the inline comment functionality. This may be good to use for a comment on a specific part of the text. Highlight the text you want to comment on and click the inline comment icon that pops up.
+
 ![image](./images/inline_comment.jpg)
 
 Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered in the topic [About This Guide](00_about.md).
 
 > In the case of languages with multiple translation suppliers, you may see comments from other reviewers. Feel free to **Reply** to provide your input on others' comments.
+
 ![reply](./images/comments_pane.jpg)
 
 ## Post-Review Communication
 
-We will reply to the comments you leave on the pages through the **Comments** pane. Make sure you have subscribed to your template so you will receive email notifications.
+We will **Reply** to your comment in case of question or clarificaiton. Make sure you keep your subscription to the template so you will be notified of it by email. We will appreciate it if you can **Reply** back to us through the **Comments** pane.
 
 ## Thank You
 
-As said, we appreciate your participation in this exercise. Feel free to let us know if you think more time is needed to do a thorough review. We look forward to hearing your thoughts on the template.
+We very much appreciate your participation in this exercise. **Never hesitate** to let us know if more time is necessary for you to do a thorough review. We look forward to hearing your thoughts on the template.
 
 Best regards,
 
