@@ -14,11 +14,20 @@ Here are the five main aspects we want you to focus on during this exercise:
 * **Descriptions wrong or inappropriate for your language:** As a rule, we provided roughly three types of information for each topic. First, a brief description of what each topic is about. Second, depending on the topic, SAP's guidelines for languages to follow for product translation. Third, instructions for editors that explain what we expect them to contribute to the topic for their language. We want you to go through them to see if it is too much or complicated for editors to understand. You should also inform us of any SAP guidelines that don't fit your language. For easy identification, the first two types of information are written in regular font style while the third in italics.
 * **Other areas of improvement:** Any other ideas to help us improve the SAP Product Style Guide are welcome.
 
-## How to Provide Feedback
+## How To Find Template for Your Language
 
-First of all, make sure that you are viewing the template version for your language. To change the language, use in the drop-down menu next to "SAP Translation Style Guide Project".
+First of all, make sure that you are viewing the template for your language. To change the language, click the language selector next to the title "SAP Translation Style Guide Template" and select your language from the drop-down menu.
 
-[screenshot]
+![languages](./images/language_selector.jpg)
+
+Once you find your template, be sure to subscribe to it by clicking the settings icon in the **Comments** pane and selecting **Subscribe to Guide**. This allows you to receive an email notification when there is a response to your comment. You can choose the frequency of notification as well
+
+![subscribe](./images/subscribe.jpg)
+
+> If the pane is not visible, you can show it by clicking the **Comment** icon ![icon](./images/icon_comment.jpg) on the right side of the page.
+
+
+## How To Provide Feedback
 
 There are two ways to provide feedback directly on any Help Portal page. One is to use the **Comments** pane on the right side of the page. This may be good to use for a general comment about the topic.
 
@@ -28,19 +37,17 @@ The other is to use the inline comment functionality. This may be good to use fo
 
 ![image](./images/inline_comment.jpg)
 
-Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered at the top page **About This Guide**.
+Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered in the topic [About This Guide](00_about.md).
 
-Note: In the case of languages with multiple translation suppliers, you may see the comments from the other vendors. If you agree/disagree with a previous comment, feel free to say so in your own comment.
-
-## Post-Review Communication
-
-We will reply to the comments you leave on the pages through the **Comments** pane.
+> In the case of languages with multiple translation suppliers, you may see comments from other reviewers. Feel free to **Reply** to provide your input on others' comments.
 
 ![reply](./images/comments_pane.jpg)
 
-Be sure to subscribe to the template by clicking the settings icon in the **Comments** pane and selecting **Subscribe to Guide** so you will be notified of our reply by email. You can choose the frequency of notification as well.
+## Post-Review Communication
 
-![subscribe](./images/subscribe.jpg)
+We will reply to the comments you leave on the pages through the **Comments** pane. Make sure you have subscribed to your template so you will receive email notifications.
+
+## Thank You
 
 As said, we appreciate your participation in this exercise. Feel free to let us know if you think more time is needed to do a thorough review. We look forward to hearing your thoughts on the template.
 
