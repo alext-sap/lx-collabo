@@ -4,7 +4,7 @@
 
 This template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. We're done with the basic work and are now inviting you to review it from the perspective of your respective languages and fields of expertise.
 
-We are fully aware that the template is far from being complete. We need your expert knowledge and experience to make it better so that it will provide a common framework that helps all language suppliers update and maintain SAP's translation style guides in a standard and consistent manner.
+We are fully aware that this template is far from being complete. We need your expert knowledge and experience to improve it so it will better serve as a common framework that helps all language suppliers update and maintain SAP's translation style guides in a standard and consistent manner.
 
 ## Expectations
 
@@ -40,13 +40,13 @@ The other is to use the inline comment functionality. This may be good to use fo
 
 Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered as general comments in the topic [About This Guide](00_about.md).
 
-> In the case of languages with multiple translation suppliers, you may see comments from other reviewers. Feel free to **Reply** to provide your input on others' comments.
+> In the case of languages with multiple translation suppliers, you may see comments from reviewers of other suppliers. You are welcome to **Reply** to provide your input on others' comments in the **Comments** pane.
 >
 > ![reply](./images/comments_pane.jpg)
 
 ## Post-Review Communication
 
-We will **Reply** to your comment from the **Comments** pane in case of question or clarificaiton. Make sure you remain subscribed to the template so you will be notified of it by email. We will appreciate it if you can **Reply** back to us in the **Comments** pane.
+After your review is over, we will **Reply** to your comment from the **Comments** pane in case of question or clarificaiton. Make sure you remain subscribed to the template so you will be notified of it by email. We will appreciate it if you can **Reply** back to us in the pane.
 
 ## Thank You
 
