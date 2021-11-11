@@ -26,7 +26,7 @@ Once you find your template, be sure to subscribe to it by clicking the settings
 
 ![subscribe](./images/subscribe.jpg)
 
-> If the pane is not visible, you can show it by clicking the **Comments** icon ![icon](./images/icon_comment.jpg) on the right side of the page.
+If the pane is not visible, you can show it by clicking the **Comments** icon ![icon](./images/icon_comment.jpg) on the right side of the page.
 
 ## How To Provide Feedback
 
@@ -40,9 +40,9 @@ The other is to use the inline comment functionality. This may be good to use fo
 
 Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered as general comments in the topic [About This Guide](00_about.md).
 
-> In the case of languages with multiple translation suppliers, you may see comments from reviewers of other suppliers. You are welcome to **Reply** to provide your input on others' comments in the **Comments** pane.
->
-> ![reply](./images/comments_pane.jpg)
+In the case of languages with multiple translation suppliers, you may see comments from reviewers of other suppliers. You are welcome to **Reply** to provide your input on others' comments in the **Comments** pane.
+
+![reply](./images/comments_pane.jpg)
 
 ## Post-Review Communication
 
