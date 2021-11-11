@@ -2,7 +2,9 @@
 
 ## Purpose
 
-The template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. It is intended to provide a common framework that helps all language suppliers update and maintain their style guide in a standard and consistent manner.
+The template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. We're done with the basic work and are now inviting you to review it from the perspective of your respective language and fields of expertise.
+
+We are fully aware that the template is far from being complete. We need your expert knowledge and experience to make it better so that it will provide a common framework for all language suppliers to update and maintain the style guide in a standard and consistent manner.
 
 ## Expectations
 
@@ -16,7 +18,7 @@ Here are the five main aspects we want you to focus on during this exercise:
 
 ## How To Find Template for Your Language
 
-First of all, make sure that you are viewing the template for your language. To change the language, click the language selector next to the title "SAP Translation Style Guide Template" and select your language from the drop-down menu.
+First of all, make sure that you are viewing the template version for your language. To change the language, click the language selector next to the title "SAP Translation Style Guide Template" and select your language from the drop-down menu.
 
 ![languages](./images/language_selector.jpg)
 
@@ -33,19 +35,19 @@ There are two ways to provide feedback directly on any Help Portal page. One is 
 
 ![image](./images/general_comment.jpg)
 
-The other is to use the inline comment functionality. This may be good to use for a comment on a specific part of the text. Highlight the text you want to comment on and click the inline comment icon that pops up.
+The other is to use the inline comment functionality. This may be good to use for a comment on a specific part of the text. Highlight the text you want to comment on and click the Edit icon that pops up.
 
 ![image](./images/inline_comment.jpg)
 
-Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered in the topic [About This Guide](00_about.md).
+Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered as general comments in the topic [About This Guide](00_about.md).
 
 > In the case of languages with multiple translation suppliers, you may see comments from other reviewers. Feel free to **Reply** to provide your input on others' comments.
-
-![reply](./images/comments_pane.jpg)
+> 
+> ![reply](./images/comments_pane.jpg)
 
 ## Post-Review Communication
 
-We will **Reply** to your comment in case of question or clarificaiton. Make sure you keep your subscription to the template so you will be notified of it by email. We will appreciate it if you can **Reply** back to us through the **Comments** pane.
+We will **Reply** to your comment from the **Comments** pane in case of question or clarificaiton. Make sure you remain subscribed to the template so you will be notified of it by email. We will appreciate it if you can **Reply** back to us in the **Comments** pane.
 
 ## Thank You
 
