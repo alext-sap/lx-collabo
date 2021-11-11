@@ -2,9 +2,9 @@
 
 ## Purpose
 
-The template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. We're done with the basic work and are now inviting you to review it from the perspective of your respective language and fields of expertise.
+The template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. We're done with the basic work and are now inviting you to review it from the perspective of your respective languages and fields of expertise.
 
-We are fully aware that the template is far from being complete. We need your expert knowledge and experience to make it better so that it will provide a common framework for all language suppliers to update and maintain the style guide in a standard and consistent manner.
+We are fully aware that the template is far from being complete. We need your expert knowledge and experience to make it better so that it will provide a common framework for all language suppliers to update and maintain SAP's translation style guides in a standard and consistent manner.
 
 ## Expectations
 
