@@ -2,9 +2,9 @@
 
 ## Purpose
 
-The template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. We're done with the basic work and are now inviting you to review it from the perspective of your respective languages and fields of expertise.
+This template is designed to cover as many translation style-related topics as possible for **all SAP languages** and **products**. We're done with the basic work and are now inviting you to review it from the perspective of your respective languages and fields of expertise.
 
-We are fully aware that the template is far from being complete. We need your expert knowledge and experience to make it better so that it will provide a common framework for all language suppliers to update and maintain SAP's translation style guides in a standard and consistent manner.
+We are fully aware that the template is far from being complete. We need your expert knowledge and experience to make it better so that it will provide a common framework that helps all language suppliers update and maintain SAP's translation style guides in a standard and consistent manner.
 
 ## Expectations
 
@@ -28,7 +28,6 @@ Once you find your template, be sure to subscribe to it by clicking the settings
 
 > If the pane is not visible, you can show it by clicking the **Comments** icon ![icon](./images/icon_comment.jpg) on the right side of the page.
 
-
 ## How To Provide Feedback
 
 There are two ways to provide feedback directly on any Help Portal page. One is to use the **Comments** pane on the right side of the page. This may be good to use for a general comment about the topic.
@@ -42,7 +41,7 @@ The other is to use the inline comment functionality. This may be good to use fo
 Feedback on missing topics, the overall structure of the template, or the general impression of the project can be entered as general comments in the topic [About This Guide](00_about.md).
 
 > In the case of languages with multiple translation suppliers, you may see comments from other reviewers. Feel free to **Reply** to provide your input on others' comments.
-> 
+>
 > ![reply](./images/comments_pane.jpg)
 
 ## Post-Review Communication
