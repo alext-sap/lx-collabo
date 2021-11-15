@@ -22,11 +22,11 @@ First of all, make sure that you are viewing the template version for your langu
 
 ![languages](./images/language_selector.jpg)
 
-> ## For Arabic and Hebrew Only
->
-> Arabic and Hebrew must be selected from the version selector next to the title.
->
-> ![version](./images/version_selector.jpg)
+### For Arabic and Hebrew Only
+
+Arabic and Hebrew must be selected from the version selector next to the title.
+
+![version](./images/version_selector.jpg)
 
 Once you find your template, be sure to subscribe to it by clicking the settings icon in the **Comments** pane and selecting **Subscribe to Guide**. This allows you to receive an email notification when there is a response to your comment. You can choose the frequency of notification as well.
 
