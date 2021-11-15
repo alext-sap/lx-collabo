@@ -5,17 +5,17 @@ deliverable:
   lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
   owner: i819666
-  product: lx_style_guide_arabic
+  product: lx_style_guide
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
-  version: Draft_VERSION
+  version: Arabic_VERSION
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/"
 outputmeta:
-- product: LX_STYLE_GUIDE_ARABIC
+- product: LX_STYLE_GUIDE
   product_name: SAP Translation Style Guide Project
   product_sapid: null
-  version: DRAFT_VERSION
+  version: ARABIC_VERSION
   version_name: Arabic Version
   version_sapid: null
 mapref:
