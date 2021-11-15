@@ -22,7 +22,7 @@ First of all, make sure that you are viewing the template version for your langu
 
 ![languages](./images/language_selector.jpg)
 
-> ## **For Arabic and Hebrew Only**
+> ## For Arabic and Hebrew Only
 >
 > Arabic and Hebrew must be selected from the version selector next to the title.
 >
