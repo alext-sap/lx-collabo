@@ -1,0 +1,83 @@
+{
+	"info": {
+		"_postman_id": "88312d41-fc64-44ae-852d-0662c6954a43",
+		"name": "Markdown",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "LX Markdown project",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "repository",
+							"value": "https://github.com/alext-sap/lx-collabo.git",
+							"type": "text"
+						},
+						{
+							"key": "path",
+							"value": "docs/markdown",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+					"protocol": "https",
+					"host": [
+						"uacp3uploaderhr716j372g",
+						"hana",
+						"ondemand",
+						"com"
+					],
+					"path": [
+						"uploader",
+						"github-to-hp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Translating Markdown in XTM",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "repository",
+							"value": "https://github.com/alext-sap/lx-collabo.git",
+							"type": "text"
+						},
+						{
+							"key": "path",
+							"value": "test/doc",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+					"protocol": "https",
+					"host": [
+						"uacp3uploaderhr716j372g",
+						"hana",
+						"ondemand",
+						"com"
+					],
+					"path": [
+						"uploader",
+						"github-to-hp"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

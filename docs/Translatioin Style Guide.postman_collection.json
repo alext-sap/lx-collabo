@@ -347,6 +347,43 @@
 					"response": []
 				},
 				{
+					"name": "Arabic (ar-SA) English",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/arSA",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
 					"name": "Bulgarian (bg-BG)",
 					"request": {
 						"method": "POST",
@@ -754,6 +791,43 @@
 					"response": []
 				},
 				{
+					"name": "Hebrew (he-IL) English",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "repository",
+									"value": "https://github.com/alext-sap/lx-collabo.git",
+									"type": "text"
+								},
+								{
+									"key": "path",
+									"value": "docs/lang/heIL",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://uacp3uploaderhr716j372g.hana.ondemand.com/uploader/github-to-hp",
+							"protocol": "https",
+							"host": [
+								"uacp3uploaderhr716j372g",
+								"hana",
+								"ondemand",
+								"com"
+							],
+							"path": [
+								"uploader",
+								"github-to-hp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
 					"name": "Hindi (hi-IN)",
 					"request": {
 						"method": "POST",
@@ -1050,7 +1124,7 @@
 					"response": []
 				},
 				{
-					"name": "Norwegian (no-NO)",
+					"name": "Norwegian (nn-NO)",
 					"request": {
 						"method": "POST",
 						"header": [],
@@ -1064,7 +1138,7 @@
 								},
 								{
 									"key": "path",
-									"value": "docs/lang/noNO",
+									"value": "docs/lang/nnNO",
 									"type": "text"
 								}
 							]
@@ -1198,7 +1272,7 @@
 					"response": []
 				},
 				{
-					"name": "Slovakian (sk-SK)",
+					"name": "Slovak (sk-SK)",
 					"request": {
 						"method": "POST",
 						"header": [],
