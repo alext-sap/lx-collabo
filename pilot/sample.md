@@ -25,5 +25,5 @@
 * This is item 3.
   * This is subitem 3.
 
-[README](/readme.md)
+[README](lx-collabo/readme.md)
 
