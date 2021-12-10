@@ -25,5 +25,5 @@
 * This is item 3.
   * This is subitem 3.
 
-[README](../README.md)
+[Arabic Sample](../test/arabic.md)
 
