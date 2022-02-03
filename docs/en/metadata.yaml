@@ -10,7 +10,7 @@ deliverable:
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: Draft_VERSION
-  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/en"
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/docs/en/"
 outputmeta:
 - product: LX_STYLE_GUIDE
   product_name: SAP Translation Style Guide Project
