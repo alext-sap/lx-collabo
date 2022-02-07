@@ -1,5 +1,5 @@
 deliverable:
-- buildname: _001
+- buildname: _002
   label: Translating Markdown in XTM
   language: en-US
   lastmodifiedby: koichi.tsumoto@sap.com
@@ -25,7 +25,7 @@ mapref:
 nav:
   - title: "Translating Markdown in XTM"
     filename: "markdown_translation.md"
-  - title: "Inline Tags"
+  - title: "Inline Tags - Updated!"
     filename: "inline_tags.md"
     subnav:
     - title: "Font Style"
