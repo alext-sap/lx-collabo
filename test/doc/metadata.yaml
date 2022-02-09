@@ -9,7 +9,7 @@ deliverable:
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
-  version: DRAFT_ONE
+  version: DRAFT_TWO
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/test/doc/"
 outputmeta:
 - product: LX_XTM_TEST
@@ -38,13 +38,13 @@ nav:
       filename: "image_icon.md"
     - title: "Inline Code"
       filename: "inline_code.md"
-      title: "Indented Code Block"
+    - title: "Indented Code Block"
       filename: "indented_code_block.md"
     - title: "Whitespace Character"
       filename: "whitespace_character.md"
-      title: "Newline Character"
+    - title: "Newline Character"
       filename: "newline_character.md"
-      tilte: "Custom-defined Markups"
+    - tilte: "Custom-defined Markups"
       filename: "variable.md"
   - title: "Admonitions"
     filename: "admonitions.md"
