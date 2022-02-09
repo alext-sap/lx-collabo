@@ -6,12 +6,6 @@ A pair of green tags named "emphasis" is responsible for bold and italics font s
 
 Contains a pair of two asterisks (\*\*). Typically used to indicate UI texts.
 
-**Markdown syntax**
-
-```
-**bold text**
-```
-
 | XTM Workbench | HTML Output |
 | --- | --- |
 | ![bold](images/bold_xtm.jpg) | ![bold](images/bold_html.jpg) |
