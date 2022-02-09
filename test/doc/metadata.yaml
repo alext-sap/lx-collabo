@@ -1,5 +1,5 @@
 deliverable:
-- buildname: _002
+- buildname: _001
   label: Translating Markdown in XTM
   language: en-US
   lastmodifiedby: koichi.tsumoto@sap.com
@@ -15,8 +15,8 @@ outputmeta:
 - product: LX_XTM_TEST
   product_name: LX XTM Test Project
   product_sapid: null
-  version: DRAFT_ONE
-  version_name: Draft One
+  version: DRAFT_TWO
+  version_name: Draft Two
   version_sapid: null
 mapref:
   - title: "Translating Markdown in XTM"
@@ -32,20 +32,19 @@ nav:
       filename: "font_style.md"
     - title: "Named Parameter"
       filename: "named_parameter.md"
-    - title: "Hyperlinked Text"
-      filename: "hyperlinked_text.md"
+    - title: "Hyperlink"
+      filename: "hyperlink.md"
     - title: "Image/Icon"
       filename: "image_icon.md"
-    - title: "Code/Icon"
-      filename: "code.md"
-    - title: "Other Markdown Syntax and Markups"
-      filename: "whitespace_newline.md"
-      subnav:
-      - title: "Variable"
-        filename: "variable.md"
-      - title: "Whitespace Characters"
-        filename: "whitespace_characters.md"
-      - title: "Newline Character"
-        filename: "newline_character.md"
+    - title: "Inline Code"
+      filename: "inline_code.md"
+      title: "Indented Code Block"
+      filename: "indented_code_block.md"
+    - title: "Whitespace Character"
+      filename: "whitespace_character.md"
+      title: "Newline Character"
+      filename: "newline_character.md"
+      tilte: "Custom-defined Markups"
+      filename: "variable.md"
   - title: "Admonitions"
     filename: "admonitions.md"
