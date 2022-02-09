@@ -1,5 +1,5 @@
 deliverable:
-- buildname: _002
+- buildname: _001
   label: Translating Markdown in XTM
   language: en-US
   lastmodifiedby: koichi.tsumoto@sap.com
@@ -15,8 +15,8 @@ outputmeta:
 - product: LX_XTM_TEST
   product_name: LX XTM Test Project
   product_sapid: null
-  version: DRAFT_ONE
-  version_name: Draft One
+  version: DRAFT_TWO
+  version_name: Draft Two
   version_sapid: null
 mapref:
   - title: "Translating Markdown in XTM"
