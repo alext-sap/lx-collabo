@@ -14,12 +14,6 @@ Contains a pair of two asterisks (\*\*). Typically used to indicate UI texts.
 
 Contains a pair of one asterisk (\*). Typically used to indicate a title with no hyperlink or emphasis.
 
-**Markdown syntax**
-
-```
-*italic text*
-```
-
 | XTM Workbench |HTML Output |
 | --- | --- |
 | ![italics](images/italics_xtm.jpg) | ![italics](images/italics_html.jpg) |

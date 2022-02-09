@@ -1,30 +1,23 @@
 # Inline Tags
 
-There are two types of inline tags. One is green tags in pair and the other standalone blue tags.
+There are two types of inline tags. One is numbered green tags in pairs and the other sequentially numbered blue tags. These can appear together in a segment.
 
-> ![green](images/tag_green.jpg)
->
->![blue](images/tag_blue.jpg)
+> ![tag introduction](images/inline_tags_01_introduction.jpg)
 
-It is helpful to remember that green tags typically represent formatting such as bold and italics while blue tags represent such text elements as variables and links.
+It is important to check what each tag represents in the **Inline tags** view of XTM Workbench so they are treated as they should. Failure to do so can result in malformed or incorrect output.
 
-> ![bold](images/bold_html.jpg)
-> 
-> ![parameter](images/named_parameter_html.jpg)
+> ![inline tags view](images/inline_tags_02_inline_tags_viewjpg.jpg "Inline tags view of segment 25")
 
-It is important to check what each tag represents in the **Inline tags** view of XTM Workbench so inline tags are placed in correct sequence and position in translation. Failure to do so can result in malformed or incorrect output.
+The information in the **Inline tags** view tells the purposes of inline tags and what they actually stand for. These include:
 
-> ![tag view](images/inline_tag_view_bold.jpg)
-> 
-> ![tag view](images/inline_tag_view_parameter.jpg)
-
-The description of inline tags tells you purposes they serve including:
-
-* [Font Style](font_style.md)
+* [Font style](font_style.md)
 * [Named parameter](named_parameter.md)
-* [Hyperlinked text](hyperlinked_text.md)
+* [Hyperlink](hyperlink.md)
 * [Image/Icon](image_icon.md)
-* [Code](code.md)
-* [Other Markdown Syntax and Markups](whitespace_newline.md)
+* [Inline code](inline_code.md)
+* [Indented code block](indented_code_block.md)
+* [Whitespace character](whitespace_character.md)
+* [Newline character](newline_character.md)
+* [Custom-defined markups](variable.md)
 
 > The **Visual mode** available for DITA translation is currently unavailable for Markdown. The English output in HTML can be viewed by downloading and opening the zip file attached to your XTM project.

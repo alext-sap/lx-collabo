@@ -1,4 +1,4 @@
-# Hyperlinked Text
+# Hyperlink
 
 A few tags are used for a hyperlinked text.
 
