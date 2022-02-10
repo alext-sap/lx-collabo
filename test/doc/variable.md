@@ -1,4 +1,4 @@
-# Variable
+# Custom-defined Variable
 
 Markdown markups sometimes need to be defined specifically as a variable due to the structure of the text. For instance, the following shows the markup (an asterisk "*") for a bulleted list as a variable. Translation must retain the space between the variable tag and the text for the bulleted list:
 
