@@ -44,7 +44,7 @@ nav:
       filename: "whitespace_character.md"
     - title: "Newline Character"
       filename: "newline_character.md"
-    - tilte: "Custom-defined Markups"
+    - title: "Custom-defined Markups"
       filename: "variable.md"
   - title: "Admonitions"
     filename: "admonitions.md"
