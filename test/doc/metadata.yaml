@@ -9,14 +9,14 @@ deliverable:
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
-  version: DRAFT_TWO
+  version: DRAFT_UPDATE
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/test/doc/"
 outputmeta:
 - product: LX_XTM_TEST
   product_name: LX XTM Test Project
   product_sapid: null
-  version: DRAFT_TWO
-  version_name: Draft Two
+  version: DRAFT_UPDATE
+  version_name: Draft Version 2
   version_sapid: null
 mapref:
   - title: "Translating Markdown in XTM"
