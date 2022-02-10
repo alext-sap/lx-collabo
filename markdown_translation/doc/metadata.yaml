@@ -1,6 +1,6 @@
 deliverable:
 - buildname: _001
-  label: Translating Markdown in XTM Update
+  label: Translating Markdown in XTM - Update
   language: en-US
   lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
@@ -19,11 +19,11 @@ outputmeta:
   version_name: Draft Version Update
   version_sapid: null
 mapref:
-  - title: "Translating Markdown in XTM Update"
+  - title: "Translating Markdown in XTM - Update"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
     shortdesc: "Updated Markdown translation."
 nav:
-  - title: "Translating Markdown in XTM"
+  - title: "Translating Markdown in XTM - Update"
     filename: "markdown_translation.md"
   - title: "Inline Tags"
     filename: "inline_tags.md"
