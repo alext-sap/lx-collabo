@@ -1,5 +1,5 @@
 deliverable:
-- buildname: _003
+- buildname: _001
   label: Translating Markdown in XTM
   language: en-US
   lastmodifiedby: koichi.tsumoto@sap.com
@@ -10,7 +10,7 @@ deliverable:
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: DRAFT_UPDATE
-  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/test/doc/"
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/markdown_translation/doc/"
 outputmeta:
 - product: LX_XTM_TEST_UPDATE
   product_name: LX XTM Test Project Update
