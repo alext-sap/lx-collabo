@@ -16,7 +16,7 @@ outputmeta:
   product_name: LX XTM Test Project
   product_sapid: null
   version: DRAFT_UPDATE
-  version_name: Draft Version 2
+  version_name: Draft Update
   version_sapid: null
 mapref:
   - title: "Translating Markdown in XTM"
