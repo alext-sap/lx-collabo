@@ -1,0 +1,50 @@
+deliverable:
+- buildname: _001
+  label: Translating Markdown in XTM Update
+  language: en-US
+  lastmodifiedby: koichi.tsumoto@sap.com
+  loio: loio_github_pgitty
+  owner: i819666
+  product: LX_XTM_project_update
+  rootfile: upload.zip
+  transtype: html5.uacp
+  shortdesc: Test shortdesc
+  version: DRAFT_UPDATE
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/markdown-translation/doc/"
+outputmeta:
+- product: LX_XTM_TEST_UPDATE
+  product_name: LX XTM Test Project Update
+  product_sapid: null
+  version: DRAFT_UPDATE
+  version_name: Draft Version Update
+  version_sapid: null
+mapref:
+  - title: "Translating Markdown in XTM Update"
+    loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
+    shortdesc: "Updated Markdown translation."
+nav:
+  - title: "Translating Markdown in XTM"
+    filename: "markdown_translation.md"
+  - title: "Inline Tags"
+    filename: "inline_tags.md"
+    subnav:
+    - title: "Font Style"
+      filename: "font_style.md"
+    - title: "Named Parameter"
+      filename: "named_parameter.md"
+    - title: "Hyperlink"
+      filename: "hyperlink.md"
+    - title: "Image/Icon"
+      filename: "image_icon.md"
+    - title: "Inline Code"
+      filename: "inline_code.md"
+    - title: "Indented Code Block"
+      filename: "indented_code_block.md"
+    - title: "Whitespace Character"
+      filename: "whitespace_character.md"
+    - title: "Newline Character"
+      filename: "newline_character.md"
+    - title: "Custom-defined Markups"
+      filename: "variable.md"
+  - title: "Admonitions"
+    filename: "admonitions.md"
