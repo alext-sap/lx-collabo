@@ -1,22 +1,22 @@
 deliverable:
-- buildname: _003
+- buildname: _001
   label: Translating Markdown in XTM
   language: en-US
   lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
   owner: i819666
-  product: LX_XTM_project
+  product: LX_XTM_project_update
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: DRAFT_UPDATE
-  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/test/doc/"
+  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/blob/main/markdown_translation/doc/"
 outputmeta:
-- product: LX_XTM_TEST
-  product_name: LX XTM Test Project
+- product: LX_XTM_TEST_UPDATE
+  product_name: LX XTM Test Project Update
   product_sapid: null
   version: DRAFT_UPDATE
-  version_name: Draft Version 2
+  version_name: Draft Version Update
   version_sapid: null
 mapref:
   - title: "Translating Markdown in XTM"
